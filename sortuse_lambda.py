@@ -8,6 +8,6 @@ data = [(1, 3), (2, 2), (3, 1)]
 c = sorted(data,key = lambda x:x[1])
 data.sort(key = lambda x:x[1])
 y = lambda data:data[1]
-print(y[2])
+print(y((20,23,30)))
 
 print(data)
