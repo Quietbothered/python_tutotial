@@ -1,0 +1,12 @@
+# try except input
+
+y=True
+while y==True:
+    x=input('enter integer')
+    try:
+        x=float(x)
+        y=False
+    except:
+        print('try again')
+    
+print('thankyou')
