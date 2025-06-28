@@ -1,16 +1,31 @@
-# A simple decorator function
-def decorator(func):
-  
-    def wrapper():
-        print("Before calling the function.")
-        func()
-        print("After calling the function.")
-    return wrapper
+'''**Easy:**
+1.  What is the fundamental difference between a "class" and an "object" in Python?
+2.  How do you define a minimal, empty class named `Car`?
+3.  Write the line of code to create an instance (or object) of a class named `Car`.
+'''
+class car:
+    pass
 
-# Applying the decorator to a function
-@decorator
+a = car()
+print(a)
 
-def greet():
-    print("Hello, World!")
+'''
+**Medium:**
+4.  Explain the difference between a class variable and an instance variable with a simple example.
+5.  What is the purpose of the `self` parameter in a class method, and why is it necessary?
+ '''
+class student :
+    def __init__(name, self):
+        name.self = self
+    def greet(name):
+        
+        print(f"hello my name is {name.self}")
+        return "alpha"
+    
+s1 = student('rahul')
+s1.greet()
+print(s1.greet(),)
 
-greet()
+
+
+
