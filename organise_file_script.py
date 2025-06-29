@@ -1,0 +1,22 @@
+import re
+
+a  = "alpha beta gamma are radiation of nuclear fission"
+b = re.search("be", a)
+
+print(b)
+
+import os
+import shutil
+
+def organize_files(directory):
+    for file in os.listdir(directory):
+        file_path = os.path.join(directory, file)
+        if os.path.isfile(file_path):
+            ext = file.split('.')[-1]
+            folder = os.path.join(directory, ext.upper())
+            os.makedirs(folder, exist_ok=True)
+            shutil.move(file_path, os.path.join(folder, file))
+
+# Use raw string to avoid escape issues
+organize_files(r'C:\Users\91878\python_tutotial')
+
