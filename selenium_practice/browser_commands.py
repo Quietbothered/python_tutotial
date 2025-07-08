@@ -1,6 +1,6 @@
 # #browser commands
 # close() = always close 1 browser /tab at a time i.e parent tab/browser window(where driver focused)
-# quit()
+# quit() = close multiple browser windows ()
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
