@@ -1,53 +1,32 @@
+#aproach 2
 
-#Frames / IFrames
-# ----------------------------
-# switch_to.frame('name of frame')
-# switch_to.frame('id of frame')
-# switch_to.frame(webelement)
-# switch_to.frame(0)
-
-# frame iframe form 
-
-
-import requests as requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.select import Select
 import time
+from selenium.webdriver.support import expected_conditions as ec1
+
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.wait        import WebDriverWait
+
 serv_obj = Service(r"C:\Driver\chromedriver-win64\chromedriver-win64\chromedriver.exe")
 driver = webdriver.Chrome(service=serv_obj)
 
 
-driver.get("https://www.hyrtutorials.com/p/frames-practice.html")
+driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
 driver.maximize_window()#maximize browser window
-driver.switch_to.frame('aswift_0')
-# driver.find_element(By.LINK_TEXT, )
-drp_ele = driver.find_element(By.XPATH, '//*[@id="selectnav1"]')
-drp_val = Select(drp_ele)
-drp_val.select_by_visible_text("Java")
+
+time.sleep(5)
+
+driver.find_element(By.LINK_TEXT, 'OrangeHRM, Inc').click()
 
 
 
-time.sleep(4)
+window_ids = driver.window_handles
+# for i in window_ids:
+print("parent id",window_ids[0])
+print("child id",window_ids[1])
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for wind in window_ids:
+    driver.switch_to.window(wind)
+    print(driver.title)
