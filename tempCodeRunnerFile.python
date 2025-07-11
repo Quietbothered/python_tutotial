@@ -1,4 +1,3 @@
-#aproach 2
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -8,25 +7,36 @@ from selenium.webdriver.support import expected_conditions as ec1
 
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.wait        import WebDriverWait
-
+from selenium.webdriver.support.select import Select
 serv_obj = Service(r"C:\Driver\chromedriver-win64\chromedriver-win64\chromedriver.exe")
 driver = webdriver.Chrome(service=serv_obj)
+#  count number of rows in a web table
+driver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')
+driver.maximize_window()
+
+time.sleep(4)
+
+driver.find_element(By.XPATH, '//input[@id="dob"]').click()
+a = 'Aug'
+b = '2022'
+c = '13'
 
 
-driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
-driver.maximize_window()#maximize browser window
 
-time.sleep(5)
-
-driver.find_element(By.LINK_TEXT, 'OrangeHRM, Inc').click()
+month_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label="Select month"]'))
+month_pick.select_by_visible_text(a)
 
 
+year_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label="Select year"]'))
+year_pick.select_by_visible_text(b)
 
-window_ids = driver.window_handles
-# for i in window_ids:
-print("parent id",window_ids[0])
-print("child id",window_ids[1])
+date_pick = driver.find_elements(By.XPATH, '//*[@id="ui-datepicker-div"]/table/tbody/tr/td/a')
+for date in date_pick:
+    
+    if date.text == '13':
+        date.click()
+        
+time.sleep(8)
 
-for wind in window_ids:
-    driver.switch_to.window(wind)
-    print(driver.title)
+
+
