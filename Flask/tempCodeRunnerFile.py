@@ -1,3 +1,5 @@
-g():
-#     return "gfgforgfg"
-# app.add_url_rule('/','g2g',gfg)
+import sqlalchemy
+import flask_sqlalchemy
+
+print("SQLAlchemy version:", sqlalchemy.__version__)
+print("Flask-SQLAlchemy version:", flask_sqlalchemy.__version__)
