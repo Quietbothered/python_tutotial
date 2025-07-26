@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>String Reversal</title>
+    <!-- Add Bootstrap CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container my-1">
+    <h2>Enter a string to reverse:</h2>
+    <form method="POST">
+        <input type="text" name="input_string" required>
+        <button type="submit">Submit</button>
+    </form>
+    {% if reversed_string %}
+    <h3>Reversed String: {{ reversed_string }}</h3>
+{% endif %}
+</div>
+
+<div class="container my-3">
+  <h2>Mytodo</h2>
+<form action="/" method="post">
+  <div class="mb-3">
+    <label for="title" class="form-label">Todo Title </label>
+    <input type="text" class="form-control" name = "title" id="title" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text"></div>
+  </div>
+  <div class="mb-3">
+    <label for="desc" class="form-label">Todo description</label>
+    <input type="text" class="form-control" name= "desc" id="desc">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+</body>
+</html>

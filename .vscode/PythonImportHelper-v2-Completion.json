@@ -52,7 +52,16 @@
         "documentation": {}
     },
     {
-        "label": "Flask",
+        "label": "cowsay",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cowsay",
+        "description": "cowsay",
+        "detail": "cowsay",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
         "importPath": "flask",
         "description": "flask",
         "isExtraImport": true,
@@ -65,6 +74,142 @@
         "description": "flask",
         "isExtraImport": true,
         "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
         "documentation": {}
     },
     {
@@ -83,6 +228,14 @@
         "importPath": "pandas",
         "description": "pandas",
         "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
         "documentation": {}
     },
     {
@@ -1707,6 +1860,15 @@
         "documentation": {}
     },
     {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
         "label": "openpyxl",
         "kind": 6,
         "isExtraImport": true,
@@ -1765,15 +1927,6 @@
         "importPath": "csv",
         "description": "csv",
         "detail": "csv",
-        "documentation": {}
-    },
-    {
-        "label": "cowsay",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "cowsay",
-        "description": "cowsay",
-        "detail": "cowsay",
         "documentation": {}
     },
     {
@@ -1858,11 +2011,65 @@
         "documentation": {}
     },
     {
-        "label": "hello_world",
+        "label": "home",
+        "kind": 2,
+        "importPath": "flasktutorial.task1.app1",
+        "description": "flasktutorial.task1.app1",
+        "peekOfCode": "def home():\n    reversed_string = None\n    if request.method == 'POST':\n        input_str = request.form.get('input_string', '')\n        reversed_string = input_str[::-1]  # Reverse the string\n    return render_template('index.html', reversed_string = reversed_string)\n@app.route('/api/reverse', methods=['POST'])\ndef reverse_api():\n    data = request.get_json()\n    original = data.get('string', '')",
+        "detail": "flasktutorial.task1.app1",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_api",
+        "kind": 2,
+        "importPath": "flasktutorial.task1.app1",
+        "description": "flasktutorial.task1.app1",
+        "peekOfCode": "def reverse_api():\n    data = request.get_json()\n    original = data.get('string', '')\n    reversed_str = original[::-1]\n    return jsonify({\n        'original': original,\n        'reversed': reversed_str\n    })\nif __name__ == \"__main__\":\n    app.run(debug=True, port=8000)",
+        "detail": "flasktutorial.task1.app1",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.task1.app1",
+        "description": "flasktutorial.task1.app1",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', methods = ['GET', 'POST'])\ndef home():\n    reversed_string = None\n    if request.method == 'POST':\n        input_str = request.form.get('input_string', '')\n        reversed_string = input_str[::-1]  # Reverse the string\n    return render_template('index.html', reversed_string = reversed_string)\n@app.route('/api/reverse', methods=['POST'])\ndef reverse_api():",
+        "detail": "flasktutorial.task1.app1",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "flasktutorial.app",
+        "description": "flasktutorial.app",
+        "peekOfCode": "class Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"\n# Ensure DB is created\nwith app.app_context():\n    try:",
+        "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
         "kind": 2,
         "importPath": "flasktutorial.app",
         "description": "flasktutorial.app",
-        "peekOfCode": "def hello_world():\n    return \"<p>Hello, World!</p>\"\nif __name__ == \"__main__\":\n    app.run(debug=True, port = 8000)",
+        "peekOfCode": "def home(): \n    if request.method == \"POST\" :\n        # print(\"POST\", request.form['title'])\n        title = request.form['title']\n        desc = request.form['desc']\n        todo = Todo(title = title ,desc = desc )\n        db.session.add(todo)\n        db.session.commit()\n        return redirect(url_for('home'))\n    alltodo = Todo.query.all()",
+        "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "flasktutorial.app",
+        "description": "flasktutorial.app",
+        "peekOfCode": "def delete(sno):\n    todo = Todo.query.filter_by(sno= sno).first()\n    db.session.delete(todo)\n    db.session.commit()\n    return redirect(\"/\")\n@app.route('/update/<int:sno>' ,  methods = ['GET', 'POST'])\ndef update(sno):\n    if request.method == \"POST\" :\n        title = request.form['title']\n        desc = request.form['desc']",
+        "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "flasktutorial.app",
+        "description": "flasktutorial.app",
+        "peekOfCode": "def update(sno):\n    if request.method == \"POST\" :\n        title = request.form['title']\n        desc = request.form['desc']\n        todo = Todo.query.filter_by(sno= sno).first()\n        todo.title = title\n        todo.desc = desc\n        db.session.add(todo)\n        db.session.commit()\n        return redirect(url_for('home'))",
         "detail": "flasktutorial.app",
         "documentation": {}
     },
@@ -1871,7 +2078,34 @@
         "kind": 5,
         "importPath": "flasktutorial.app",
         "description": "flasktutorial.app",
-        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef hello_world():\n    return \"<p>Hello, World!</p>\"\nif __name__ == \"__main__\":\n    app.run(debug=True, port = 8000)",
+        "peekOfCode": "app = Flask(__name__)\n# Database URI - SQLite (file will be created in current directory)\napp.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:///todo.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)",
+        "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "flasktutorial.app",
+        "description": "flasktutorial.app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:///todo.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))",
+        "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "flasktutorial.app",
+        "description": "flasktutorial.app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:",
+        "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "flasktutorial.app",
+        "description": "flasktutorial.app",
+        "peekOfCode": "db = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"\n# Ensure DB is created",
         "detail": "flasktutorial.app",
         "documentation": {}
     },
@@ -4312,6 +4546,24 @@
         "description": "selenium_practice.popupsOrAlerts",
         "peekOfCode": "alertwindow = driver.switch_to.alert\nprint(alertwindow.text)\nalertwindow.send_keys('hola its sent by me')\n# alertwindow.accept()\nalertwindow.dismiss()\ntime.sleep(4)",
         "detail": "selenium_practice.popupsOrAlerts",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "selenium_practice.print_webpage",
+        "description": "selenium_practice.print_webpage",
+        "peekOfCode": "driver = webdriver.Chrome()\ndriver.get(\"https://flask.palletsprojects.com/en/stable/tutorial/layout/\")\n# Open print dialog\npdf = driver.execute_cdp_cmd(\"Page.printToPDF\", {\n    \"landscape\": False,\n    \"displayHeaderFooter\": False,\n    \"printBackground\": True,\n    \"preferCSSPageSize\": True\n})\n# Save to file",
+        "detail": "selenium_practice.print_webpage",
+        "documentation": {}
+    },
+    {
+        "label": "pdf",
+        "kind": 5,
+        "importPath": "selenium_practice.print_webpage",
+        "description": "selenium_practice.print_webpage",
+        "peekOfCode": "pdf = driver.execute_cdp_cmd(\"Page.printToPDF\", {\n    \"landscape\": False,\n    \"displayHeaderFooter\": False,\n    \"printBackground\": True,\n    \"preferCSSPageSize\": True\n})\n# Save to file\nwith open(\"output.pdf\", \"wb\") as f:\n    f.write(base64.b64decode(pdf['data']))\nprint(\"PDF saved as output.pdf\")",
+        "detail": "selenium_practice.print_webpage",
         "documentation": {}
     },
     {
