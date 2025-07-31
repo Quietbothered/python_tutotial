@@ -44,12 +44,107 @@
         "documentation": {}
     },
     {
-        "label": "cowsay",
-        "kind": 6,
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
         "isExtraImport": true,
-        "importPath": "cowsay",
-        "description": "cowsay",
-        "detail": "cowsay",
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
         "documentation": {}
     },
     {
@@ -69,11 +164,100 @@
         "documentation": {}
     },
     {
-        "label": "SQLAlchemy",
-        "importPath": "flask_sqlalchemy",
-        "description": "flask_sqlalchemy",
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
         "isExtraImport": true,
-        "detail": "flask_sqlalchemy",
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "cowsay",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cowsay",
+        "description": "cowsay",
+        "detail": "cowsay",
         "documentation": {}
     },
     {
@@ -90,6 +274,30 @@
         "description": "datetime",
         "isExtraImport": true,
         "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
         "documentation": {}
     },
     {
@@ -190,11 +398,137 @@
         "documentation": {}
     },
     {
+        "label": "form",
+        "kind": 2,
+        "importPath": "feedback_form.app",
+        "description": "feedback_form.app",
+        "peekOfCode": "def form():\n    if request.form == \"POST\" :\n        name = request.form.get(\"name\")\n        if not name :\n            flash(\"Name cannot be empty\")\n            return redirect(url_for(\"form\"))\n        flash(f\"thanks {name} , your feedback was saved\")\n        return render_template(\"thankyou.html\")\n    return render_template(\"form.html\")\n@app.route(\"/thankyou\")",
+        "detail": "feedback_form.app",
+        "documentation": {}
+    },
+    {
+        "label": "thankyou",
+        "kind": 2,
+        "importPath": "feedback_form.app",
+        "description": "feedback_form.app",
+        "peekOfCode": "def thankyou():\n    return render_template(\"thankyou.html\")\n# @app.route(\"/feedback\", methods = [\"post\",\"GET\"])\n# def feedback():\n#     if request.method == \"POST\":\n#         name = request.form.get(\"username\")\n#         message = request.form.get(\"message\")\n#         return render_template(\"thankyou.html\", user = name, message=message)\n#     return render_template(\"feedback.html\")\nif __name__ == \"__main__\":",
+        "detail": "feedback_form.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "feedback_form.app",
+        "description": "feedback_form.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\", methods = [\"GET\", \"POST\"])\ndef form():\n    if request.form == \"POST\" :\n        name = request.form.get(\"name\")\n        if not name :\n            flash(\"Name cannot be empty\")\n            return redirect(url_for(\"form\"))\n        flash(f\"thanks {name} , your feedback was saved\")\n        return render_template(\"thankyou.html\")",
+        "detail": "feedback_form.app",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "new_app.app",
+        "description": "new_app.app",
+        "peekOfCode": "def login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:\n            return Response(\"Invalid credentials. Try again\", mimetype =\"text/plain\") #text/html\n    return '''",
+        "detail": "new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "welcome",
+        "kind": 2,
+        "importPath": "new_app.app",
+        "description": "new_app.app",
+        "peekOfCode": "def welcome():\n    if \"user\" in session:\n        return   f'''\n                <h2> Welcome, {session[\"user\"]}!</h2>\n                <a href= {url_for('logout')}>Logout</a>\n    '''\n    return redirect(url_for('login'))\n#logout route\n@app.route(\"/logout\")\ndef logout():",
+        "detail": "new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "new_app.app",
+        "description": "new_app.app",
+        "peekOfCode": "def logout():\n    session.pop(\"user\", None)\n    return redirect(url_for(\"login\"))\n# @app.route(\"/about\")\n# def about():\n#     return  \"this is about page\"\n# @app.route(\"/contact\")\n# def contact():\n#     return \"contact page\"\n# @app.route(\"/submit\", )",
+        "detail": "new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "new_app.app",
+        "description": "new_app.app",
+        "peekOfCode": "app = Flask(__name__)\napp.secret_key = \"MUKA\"\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))",
+        "detail": "new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "new_app.app",
+        "description": "new_app.app",
+        "peekOfCode": "app.secret_key = \"MUKA\"\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:",
+        "detail": "new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "phase2.app",
+        "description": "phase2.app",
+        "peekOfCode": "def home():\n    return render_template(\"home.html\")\n@app.route(\"/about\")\ndef about():\n    return render_template(\"about.html\")",
+        "detail": "phase2.app",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "phase2.app",
+        "description": "phase2.app",
+        "peekOfCode": "def about():\n    return render_template(\"about.html\")",
+        "detail": "phase2.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "phase2.app",
+        "description": "phase2.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef home():\n    return render_template(\"home.html\")\n@app.route(\"/about\")\ndef about():\n    return render_template(\"about.html\")",
+        "detail": "phase2.app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "task1.app1",
+        "description": "task1.app1",
+        "peekOfCode": "def home():\n    reversed_string = None\n    if request.method == 'POST':\n        input_str = request.form.get('input_string', '')\n        reversed_string = input_str[::-1]  # Reverse the string\n    return render_template('index.html', reversed_string = reversed_string)\n@app.route('/api/reverse', methods=['POST'])\ndef reverse_api():\n    data = request.get_json()\n    original = data.get('string', '')",
+        "detail": "task1.app1",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_api",
+        "kind": 2,
+        "importPath": "task1.app1",
+        "description": "task1.app1",
+        "peekOfCode": "def reverse_api():\n    data = request.get_json()\n    original = data.get('string', '')\n    reversed_str = original[::-1]\n    return jsonify({\n        'original': original,\n        'reversed': reversed_str\n    })\nif __name__ == \"__main__\":\n    app.run(debug=True, port=8000)",
+        "detail": "task1.app1",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "task1.app1",
+        "description": "task1.app1",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', methods = ['GET', 'POST'])\ndef home():\n    reversed_string = None\n    if request.method == 'POST':\n        input_str = request.form.get('input_string', '')\n        reversed_string = input_str[::-1]  # Reverse the string\n    return render_template('index.html', reversed_string = reversed_string)\n@app.route('/api/reverse', methods=['POST'])\ndef reverse_api():",
+        "detail": "task1.app1",
+        "documentation": {}
+    },
+    {
         "label": "Todo",
         "kind": 6,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "class Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),\n                             default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"\n# Ensure DB is created\nwith app.app_context():",
+        "peekOfCode": "class Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"\n# Ensure DB is created\nwith app.app_context():\n    try:",
         "detail": "app",
         "documentation": {}
     },
@@ -203,16 +537,25 @@
         "kind": 2,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "def home(): \n    todo = Todo(title = \"First todo\", desc = \"start investing in Stock markert manipulation\")\n    db.session.add(todo)\n    db.session.commit()\n    return render_template(\"index.html\")\n# @app.route('/show')\n# def products():\n#     alltodo = Todo.query.all()\n#     return \"this is product page\"\n@app.route('/show')",
+        "peekOfCode": "def home(): \n    if request.method == \"POST\" :\n        # print(\"POST\", request.form['title'])\n        title = request.form['title']\n        desc = request.form['desc']\n        todo = Todo(title = title ,desc = desc )\n        db.session.add(todo)\n        db.session.commit()\n        return redirect(url_for('home'))\n    alltodo = Todo.query.all()",
         "detail": "app",
         "documentation": {}
     },
     {
-        "label": "products",
+        "label": "delete",
         "kind": 2,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "def products():\n    alltodo = Todo.query.all()\n    output = \"\"\n    for todo in alltodo:\n        output += f\"{todo.sno}: {todo.title} - {todo.desc}<br>\"\n    return output if output else \"No todos found.\"\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "peekOfCode": "def delete(sno):\n    todo = Todo.query.filter_by(sno= sno).first()\n    db.session.delete(todo)\n    db.session.commit()\n    return redirect(\"/\")\n@app.route('/update/<int:sno>' ,  methods = ['GET', 'POST'])\ndef update(sno):\n    if request.method == \"POST\" :\n        title = request.form['title']\n        desc = request.form['desc']",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def update(sno):\n    if request.method == \"POST\" :\n        title = request.form['title']\n        desc = request.form['desc']\n        todo = Todo.query.filter_by(sno= sno).first()\n        todo.title = title\n        todo.desc = desc\n        db.session.add(todo)\n        db.session.commit()\n        return redirect(url_for('home'))",
         "detail": "app",
         "documentation": {}
     },
@@ -230,7 +573,7 @@
         "kind": 5,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:///todo.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = \"sqlite:///todo.db\"\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))",
         "detail": "app",
         "documentation": {}
     },
@@ -239,7 +582,7 @@
         "kind": 5,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),\n                             default=lambda: datetime.now(timezone.utc))",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False  # Suppress deprecation warning\n# Initialize database\ndb = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:",
         "detail": "app",
         "documentation": {}
     },
@@ -248,7 +591,7 @@
         "kind": 5,
         "importPath": "app",
         "description": "app",
-        "peekOfCode": "db = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),\n                             default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"",
+        "peekOfCode": "db = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"\n# Ensure DB is created",
         "detail": "app",
         "documentation": {}
     }

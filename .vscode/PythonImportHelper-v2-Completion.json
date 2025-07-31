@@ -52,12 +52,59 @@
         "documentation": {}
     },
     {
-        "label": "cowsay",
-        "kind": 6,
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
         "isExtraImport": true,
-        "importPath": "cowsay",
-        "description": "cowsay",
-        "detail": "cowsay",
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
         "documentation": {}
     },
     {
@@ -154,6 +201,15 @@
         "description": "flask",
         "isExtraImport": true,
         "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "cowsay",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cowsay",
+        "description": "cowsay",
+        "detail": "cowsay",
         "documentation": {}
     },
     {
@@ -2008,6 +2064,69 @@
         "description": "flasktutorial.env.Scripts.activate_this",
         "peekOfCode": "sys.prefix = base",
         "detail": "flasktutorial.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "def login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:\n            return Response(\"Invalid credentials. Try again\", mimetype =\"text/plain\") #text/html\n    return '''",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "welcome",
+        "kind": 2,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "def welcome():\n    if \"user\" in session:\n        return   f'''\n                <h2> Welcome, {session[\"user\"]}!</h2>\n                <a href= {url_for('logout')}>Logout</a>\n    '''\n    return redirect(url_for('login'))\n#logout route\n@app.route(\"/logout\")\ndef logout():",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "def logout():\n    session\n@app.route(\"/about\")\ndef about():\n    return  \"this is about page\"\n@app.route(\"/contact\")\ndef contact():\n    return \"contact page\"\n@app.route(\"/submit\", )\ndef submit():",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "def about():\n    return  \"this is about page\"\n@app.route(\"/contact\")\ndef contact():\n    return \"contact page\"\n@app.route(\"/submit\", )\ndef submit():\n    if request.method == \"POST\" :\n        return \" You sent data\"\n    else:",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "def contact():\n    return \"contact page\"\n@app.route(\"/submit\", )\ndef submit():\n    if request.method == \"POST\" :\n        return \" You sent data\"\n    else:\n        return \"You are only viewing form\"",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "submit",
+        "kind": 2,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "def submit():\n    if request.method == \"POST\" :\n        return \" You sent data\"\n    else:\n        return \"You are only viewing form\"",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:",
+        "detail": "flasktutorial.new_app.app",
         "documentation": {}
     },
     {

@@ -1,0 +1,9 @@
+login page 
+accept username and passwored
+session store
+redirect welcome page
+logout 
+
+
+python -m venv venv
+venv \scropt\activate

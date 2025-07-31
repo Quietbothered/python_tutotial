@@ -1,0 +1,103 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:\n            return Response(\"Invalid credentials. Try again\", mimetype =\"text/plain\") #text/html\n    return '''",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "welcome",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def welcome():\n    if \"user\" in session:\n        return   f'''\n                <h2> Welcome, {session[\"user\"]}!</h2>\n                <a href= {url_for('logout')}>Logout</a>\n    '''\n    return redirect(url_for('login'))\n#logout route\n@app.route(\"/logout\")\ndef logout():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def logout():\n    session.pop(\"user\", None)\n    return redirect(url_for(\"login\"))\n# @app.route(\"/about\")\n# def about():\n#     return  \"this is about page\"\n# @app.route(\"/contact\")\n# def contact():\n#     return \"contact page\"\n# @app.route(\"/submit\", )",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.secret_key = \"MUKA\"\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.secret_key = \"MUKA\"\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:",
+        "detail": "app",
+        "documentation": {}
+    }
+]
