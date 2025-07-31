@@ -60,6 +60,54 @@
         "documentation": {}
     },
     {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
         "label": "request",
         "importPath": "flask",
         "description": "flask",
@@ -93,6 +141,22 @@
     },
     {
         "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
         "importPath": "flask",
         "description": "flask",
         "isExtraImport": true,
@@ -149,6 +213,134 @@
     },
     {
         "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
         "importPath": "flask",
         "description": "flask",
         "isExtraImport": true,
@@ -1264,12 +1456,480 @@
         "documentation": {}
     },
     {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
         "label": "random",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "random",
         "description": "random",
         "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ElementNotVisibleException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ElementNotSelectableException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
         "documentation": {}
     },
     {
@@ -1287,358 +1947,6 @@
         "description": "googletrans",
         "isExtraImport": true,
         "detail": "googletrans",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
-        "documentation": {}
-    },
-    {
-        "label": "Service",
-        "importPath": "selenium.webdriver.chrome.service",
-        "description": "selenium.webdriver.chrome.service",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.chrome.service",
         "documentation": {}
     },
     {
@@ -1787,70 +2095,6 @@
         "documentation": {}
     },
     {
-        "label": "NoSuchElementException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NoSuchElementException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "ElementNotVisibleException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "ElementNotSelectableException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NoSuchElementException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NoSuchElementException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NoSuchElementException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
-        "label": "NoSuchElementException",
-        "importPath": "selenium.common.exceptions",
-        "description": "selenium.common.exceptions",
-        "isExtraImport": true,
-        "detail": "selenium.common.exceptions",
-        "documentation": {}
-    },
-    {
         "label": "WebDriverWait",
         "importPath": "selenium.webdriver.support.wait       ",
         "description": "selenium.webdriver.support.wait       ",
@@ -1888,22 +2132,6 @@
         "description": "webdriver_manager.chrome",
         "isExtraImport": true,
         "detail": "webdriver_manager.chrome",
-        "documentation": {}
-    },
-    {
-        "label": "WebDriverWait",
-        "importPath": "selenium.webdriver.support.wait",
-        "description": "selenium.webdriver.support.wait",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.support.wait",
-        "documentation": {}
-    },
-    {
-        "label": "WebDriverWait",
-        "importPath": "selenium.webdriver.support.wait",
-        "description": "selenium.webdriver.support.wait",
-        "isExtraImport": true,
-        "detail": "selenium.webdriver.support.wait",
         "documentation": {}
     },
     {
@@ -1947,42 +2175,6 @@
         "description": "openpyxl.styles",
         "isExtraImport": true,
         "detail": "openpyxl.styles",
-        "documentation": {}
-    },
-    {
-        "label": "math",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "math",
-        "description": "math",
-        "detail": "math",
-        "documentation": {}
-    },
-    {
-        "label": "re",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "re",
-        "description": "re",
-        "detail": "re",
-        "documentation": {}
-    },
-    {
-        "label": "shutil",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "shutil",
-        "description": "shutil",
-        "detail": "shutil",
-        "documentation": {}
-    },
-    {
-        "label": "csv",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "csv",
-        "description": "csv",
-        "detail": "csv",
         "documentation": {}
     },
     {
@@ -2067,6 +2259,33 @@
         "documentation": {}
     },
     {
+        "label": "form",
+        "kind": 2,
+        "importPath": "flasktutorial.feedback_form.app",
+        "description": "flasktutorial.feedback_form.app",
+        "peekOfCode": "def form():\n    if request.form == \"POST\" :\n        name = request.form.get(\"name\")\n        if not name :\n            flash(\"Name cannot be empty\")\n            return redirect(url_for(\"form\"))\n        flash(f\"thanks {name} , your feedback was saved\")\n        return render_template(\"thankyou.html\")\n    return render_template(\"form.html\")\n@app.route(\"/thankyou\")",
+        "detail": "flasktutorial.feedback_form.app",
+        "documentation": {}
+    },
+    {
+        "label": "thankyou",
+        "kind": 2,
+        "importPath": "flasktutorial.feedback_form.app",
+        "description": "flasktutorial.feedback_form.app",
+        "peekOfCode": "def thankyou():\n    return render_template(\"thankyou.html\")\n# @app.route(\"/feedback\", methods = [\"post\",\"GET\"])\n# def feedback():\n#     if request.method == \"POST\":\n#         name = request.form.get(\"username\")\n#         message = request.form.get(\"message\")\n#         return render_template(\"thankyou.html\", user = name, message=message)\n#     return render_template(\"feedback.html\")\nif __name__ == \"__main__\":",
+        "detail": "flasktutorial.feedback_form.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.feedback_form.app",
+        "description": "flasktutorial.feedback_form.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\", methods = [\"GET\", \"POST\"])\ndef form():\n    if request.form == \"POST\" :\n        name = request.form.get(\"name\")\n        if not name :\n            flash(\"Name cannot be empty\")\n            return redirect(url_for(\"form\"))\n        flash(f\"thanks {name} , your feedback was saved\")\n        return render_template(\"thankyou.html\")",
+        "detail": "flasktutorial.feedback_form.app",
+        "documentation": {}
+    },
+    {
         "label": "login",
         "kind": 2,
         "importPath": "flasktutorial.new_app.app",
@@ -2089,34 +2308,7 @@
         "kind": 2,
         "importPath": "flasktutorial.new_app.app",
         "description": "flasktutorial.new_app.app",
-        "peekOfCode": "def logout():\n    session\n@app.route(\"/about\")\ndef about():\n    return  \"this is about page\"\n@app.route(\"/contact\")\ndef contact():\n    return \"contact page\"\n@app.route(\"/submit\", )\ndef submit():",
-        "detail": "flasktutorial.new_app.app",
-        "documentation": {}
-    },
-    {
-        "label": "about",
-        "kind": 2,
-        "importPath": "flasktutorial.new_app.app",
-        "description": "flasktutorial.new_app.app",
-        "peekOfCode": "def about():\n    return  \"this is about page\"\n@app.route(\"/contact\")\ndef contact():\n    return \"contact page\"\n@app.route(\"/submit\", )\ndef submit():\n    if request.method == \"POST\" :\n        return \" You sent data\"\n    else:",
-        "detail": "flasktutorial.new_app.app",
-        "documentation": {}
-    },
-    {
-        "label": "contact",
-        "kind": 2,
-        "importPath": "flasktutorial.new_app.app",
-        "description": "flasktutorial.new_app.app",
-        "peekOfCode": "def contact():\n    return \"contact page\"\n@app.route(\"/submit\", )\ndef submit():\n    if request.method == \"POST\" :\n        return \" You sent data\"\n    else:\n        return \"You are only viewing form\"",
-        "detail": "flasktutorial.new_app.app",
-        "documentation": {}
-    },
-    {
-        "label": "submit",
-        "kind": 2,
-        "importPath": "flasktutorial.new_app.app",
-        "description": "flasktutorial.new_app.app",
-        "peekOfCode": "def submit():\n    if request.method == \"POST\" :\n        return \" You sent data\"\n    else:\n        return \"You are only viewing form\"",
+        "peekOfCode": "def logout():\n    session.pop(\"user\", None)\n    return redirect(url_for(\"login\"))\n# @app.route(\"/about\")\n# def about():\n#     return  \"this is about page\"\n# @app.route(\"/contact\")\n# def contact():\n#     return \"contact page\"\n# @app.route(\"/submit\", )",
         "detail": "flasktutorial.new_app.app",
         "documentation": {}
     },
@@ -2125,8 +2317,44 @@
         "kind": 5,
         "importPath": "flasktutorial.new_app.app",
         "description": "flasktutorial.new_app.app",
-        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:",
+        "peekOfCode": "app = Flask(__name__)\napp.secret_key = \"MUKA\"\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))",
         "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "flasktutorial.new_app.app",
+        "description": "flasktutorial.new_app.app",
+        "peekOfCode": "app.secret_key = \"MUKA\"\n@app.route(\"/\",methods= ['GET', \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        password = request.form.get(\"password\")\n        if username == \"admin\" and password == \"123\":\n            session[\"user\"] = username #stored in session \n            return redirect(url_for(\"welcome\"))\n        else:",
+        "detail": "flasktutorial.new_app.app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "flasktutorial.phase2.app",
+        "description": "flasktutorial.phase2.app",
+        "peekOfCode": "def home():\n    return render_template(\"home.html\")\n@app.route(\"/about\")\ndef about():\n    return render_template(\"about.html\")",
+        "detail": "flasktutorial.phase2.app",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "flasktutorial.phase2.app",
+        "description": "flasktutorial.phase2.app",
+        "peekOfCode": "def about():\n    return render_template(\"about.html\")",
+        "detail": "flasktutorial.phase2.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.phase2.app",
+        "description": "flasktutorial.phase2.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef home():\n    return render_template(\"home.html\")\n@app.route(\"/about\")\ndef about():\n    return render_template(\"about.html\")",
+        "detail": "flasktutorial.phase2.app",
         "documentation": {}
     },
     {
@@ -2154,6 +2382,114 @@
         "description": "flasktutorial.task1.app1",
         "peekOfCode": "app = Flask(__name__)\n@app.route('/', methods = ['GET', 'POST'])\ndef home():\n    reversed_string = None\n    if request.method == 'POST':\n        input_str = request.form.get('input_string', '')\n        reversed_string = input_str[::-1]  # Reverse the string\n    return render_template('index.html', reversed_string = reversed_string)\n@app.route('/api/reverse', methods=['POST'])\ndef reverse_api():",
         "detail": "flasktutorial.task1.app1",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app",
+        "description": "flasktutorial.week5test flask.app",
+        "peekOfCode": "def home():\n    return \"<h2>Hello, World!</h2>\"\nif __name__ == \"__main__\":\n    app.run(debug=True, port =5000)",
+        "detail": "flasktutorial.week5test flask.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.week5test flask.app",
+        "description": "flasktutorial.week5test flask.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef home():\n    return \"<h2>Hello, World!</h2>\"\nif __name__ == \"__main__\":\n    app.run(debug=True, port =5000)",
+        "detail": "flasktutorial.week5test flask.app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app1",
+        "description": "flasktutorial.week5test flask.app1",
+        "peekOfCode": "def home():\n    name = \"shubham\"\n    return render_template(\"index.html\", username = name)\nif __name__ == \"__main__\":\n    app.run(debug=True, port =5000)",
+        "detail": "flasktutorial.week5test flask.app1",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.week5test flask.app1",
+        "description": "flasktutorial.week5test flask.app1",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\", methods = [\"POST\",\"GET\"])\ndef home():\n    name = \"shubham\"\n    return render_template(\"index.html\", username = name)\nif __name__ == \"__main__\":\n    app.run(debug=True, port =5000)",
+        "detail": "flasktutorial.week5test flask.app1",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app2",
+        "description": "flasktutorial.week5test flask.app2",
+        "peekOfCode": "def home():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        session['name']=username\n        return redirect(url_for('welcome'))\n    return '''<h2>Login Page</h2>\n            <form method=\"POST\">\n            Username:<input type = \"text\" name = \"username\"><br>\n            <input type = \"submit\" value = \"enter\">\n            </form>",
+        "detail": "flasktutorial.week5test flask.app2",
+        "documentation": {}
+    },
+    {
+        "label": "welcome",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app2",
+        "description": "flasktutorial.week5test flask.app2",
+        "peekOfCode": "def welcome():\n    return f\"\"\"\n        welcome {session['name']}\n\"\"\"\nif __name__ == \"__main__\":\n    app.run(debug=True, port =5000)",
+        "detail": "flasktutorial.week5test flask.app2",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.week5test flask.app2",
+        "description": "flasktutorial.week5test flask.app2",
+        "peekOfCode": "app = Flask(__name__)\napp.secret_key = \"MUKA\"\n@app.route(\"/\", methods = [\"POST\", \"GET\"])\ndef home():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        session['name']=username\n        return redirect(url_for('welcome'))\n    return '''<h2>Login Page</h2>\n            <form method=\"POST\">",
+        "detail": "flasktutorial.week5test flask.app2",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "flasktutorial.week5test flask.app2",
+        "description": "flasktutorial.week5test flask.app2",
+        "peekOfCode": "app.secret_key = \"MUKA\"\n@app.route(\"/\", methods = [\"POST\", \"GET\"])\ndef home():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        session['name']=username\n        return redirect(url_for('welcome'))\n    return '''<h2>Login Page</h2>\n            <form method=\"POST\">\n            Username:<input type = \"text\" name = \"username\"><br>",
+        "detail": "flasktutorial.week5test flask.app2",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app3",
+        "description": "flasktutorial.week5test flask.app3",
+        "peekOfCode": "def select():\n    if request.method == \"POST\":\n        calc_type = request.form[\"calc_type\"]\n        shape = request.form[\"shape\"]\n        return redirect(url_for(\"input_form\", calc_type=calc_type, shape=shape))\n    return render_template(\"selection.html\")\n@app.route(\"/input\", methods=[\"GET\", \"POST\"])\ndef input_form():\n    calc_type = request.args.get(\"calc_type\")\n    shape = request.args.get(\"shape\")",
+        "detail": "flasktutorial.week5test flask.app3",
+        "documentation": {}
+    },
+    {
+        "label": "input_form",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app3",
+        "description": "flasktutorial.week5test flask.app3",
+        "peekOfCode": "def input_form():\n    calc_type = request.args.get(\"calc_type\")\n    shape = request.args.get(\"shape\")\n    if request.method == \"POST\":\n        data = request.form\n        result = calculate(calc_type, shape, data)\n        return render_template(\"result.html\", result=result)\n    return render_template(\"input_form.html\", calc_type=calc_type, shape=shape)\ndef calculate(calc_type, shape, data):\n    from math import pi",
+        "detail": "flasktutorial.week5test flask.app3",
+        "documentation": {}
+    },
+    {
+        "label": "calculate",
+        "kind": 2,
+        "importPath": "flasktutorial.week5test flask.app3",
+        "description": "flasktutorial.week5test flask.app3",
+        "peekOfCode": "def calculate(calc_type, shape, data):\n    from math import pi\n    try:\n        if shape == \"Circle\":\n            r = float(data[\"radius\"])\n            if calc_type == \"Surface Area\":\n                return f\"The surface area of a circle with radius {r} is {round(pi * r * r, 2)} sq units.\"\n        elif shape == \"Sphere\":\n            r = float(data[\"radius\"])\n            if calc_type == \"Surface Area\":",
+        "detail": "flasktutorial.week5test flask.app3",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "flasktutorial.week5test flask.app3",
+        "description": "flasktutorial.week5test flask.app3",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\", methods=[\"GET\", \"POST\"])\ndef select():\n    if request.method == \"POST\":\n        calc_type = request.form[\"calc_type\"]\n        shape = request.form[\"shape\"]\n        return redirect(url_for(\"input_form\", calc_type=calc_type, shape=shape))\n    return render_template(\"selection.html\")\n@app.route(\"/input\", methods=[\"GET\", \"POST\"])\ndef input_form():",
+        "detail": "flasktutorial.week5test flask.app3",
         "documentation": {}
     },
     {
@@ -2760,6 +3096,24 @@
         "documentation": {}
     },
     {
+        "label": "x",
+        "kind": 5,
+        "importPath": "PY.math_sqrt_input",
+        "description": "PY.math_sqrt_input",
+        "peekOfCode": "x = input(\"Enter a number:\")\n#find the square root of the number:\ny = math.sqrt(int(x))\nprint(f\"The square root of {x} is {y:.2f}\")",
+        "detail": "PY.math_sqrt_input",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "PY.math_sqrt_input",
+        "description": "PY.math_sqrt_input",
+        "peekOfCode": "y = math.sqrt(int(x))\nprint(f\"The square root of {x} is {y:.2f}\")",
+        "detail": "PY.math_sqrt_input",
+        "documentation": {}
+    },
+    {
         "label": "greeting",
         "kind": 2,
         "importPath": "PY.mymod1",
@@ -2811,6 +3165,24 @@
         "description": "PY.operatorlisttupple",
         "peekOfCode": "l4.sort(key = myfunc, reverse=True)\nprint(l4)\n#copying a list to new list\nl5=l4.copy()\nprint(l5)\nl6=list(l3)\nprint(l6)\nmylist=l6[:]\nprint(mylist)\n#joining 2 list",
         "detail": "PY.operatorlisttupple",
+        "documentation": {}
+    },
+    {
+        "label": "organize_files",
+        "kind": 2,
+        "importPath": "PY.organise_file_script",
+        "description": "PY.organise_file_script",
+        "peekOfCode": "def organize_files(directory):\n    for file in os.listdir(directory):\n        file_path = os.path.join(directory, file)\n        if os.path.isfile(file_path):\n            ext = file.split('.')[-1]\n            folder = os.path.join(directory, ext.upper())\n            os.makedirs(folder, exist_ok=True)\n            shutil.move(file_path, os.path.join(folder, file))\n# Use raw string to avoid escape issues\norganize_files(r'C:\\Users\\91878\\python_tutotial')",
+        "detail": "PY.organise_file_script",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "PY.organise_file_script",
+        "description": "PY.organise_file_script",
+        "peekOfCode": "b = re.search(\"be\", a)\nprint(b)\nimport os\nimport shutil\ndef organize_files(directory):\n    for file in os.listdir(directory):\n        file_path = os.path.join(directory, file)\n        if os.path.isfile(file_path):\n            ext = file.split('.')[-1]\n            folder = os.path.join(directory, ext.upper())",
+        "detail": "PY.organise_file_script",
         "documentation": {}
     },
     {
@@ -3234,6 +3606,42 @@
         "description": "PY.q_on_classobj_basic",
         "peekOfCode": "s1 = student('rahul')\ns1.greet()\nprint(s1.greet(),)\n'''**Tough:**\n6.  Discuss the concept of \"monkey-patching\" in Python. How could you add a new method to an existing class at runtime, and what are the potential risks of doing so?\n'''",
         "detail": "PY.q_on_classobj_basic",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "PY.read_html_row_column_savein_csv_txt",
+        "description": "PY.read_html_row_column_savein_csv_txt",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://testautomationpractice.blogspot.com/')\ndriver.maximize_window()\ntime.sleep(4)\n# Get column headers and row data\nno_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:",
+        "detail": "PY.read_html_row_column_savein_csv_txt",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "PY.read_html_row_column_savein_csv_txt",
+        "description": "PY.read_html_row_column_savein_csv_txt",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://testautomationpractice.blogspot.com/')\ndriver.maximize_window()\ntime.sleep(4)\n# Get column headers and row data\nno_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(\"Column Headers:\\n\")",
+        "detail": "PY.read_html_row_column_savein_csv_txt",
+        "documentation": {}
+    },
+    {
+        "label": "no_of_col",
+        "kind": 5,
+        "importPath": "PY.read_html_row_column_savein_csv_txt",
+        "description": "PY.read_html_row_column_savein_csv_txt",
+        "peekOfCode": "no_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(\"Column Headers:\\n\")\n    for col in no_of_col:\n        f.write(col.text + \"\\t\")\n    f.write(\"\\n\\nRows:\\n\")\n    for row in no_rows:\n        f.write(row.text + \"\\n\")",
+        "detail": "PY.read_html_row_column_savein_csv_txt",
+        "documentation": {}
+    },
+    {
+        "label": "no_rows",
+        "kind": 5,
+        "importPath": "PY.read_html_row_column_savein_csv_txt",
+        "description": "PY.read_html_row_column_savein_csv_txt",
+        "peekOfCode": "no_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(\"Column Headers:\\n\")\n    for col in no_of_col:\n        f.write(col.text + \"\\t\")\n    f.write(\"\\n\\nRows:\\n\")\n    for row in no_rows:\n        f.write(row.text + \"\\n\")\nprint(\"Data written to web_table_data.txt\")",
+        "detail": "PY.read_html_row_column_savein_csv_txt",
         "documentation": {}
     },
     {
@@ -5052,78 +5460,6 @@
         "description": "selenium_practice.writingEXcelfile",
         "peekOfCode": "sheet = workbook.active\nfor r in range(1,7+1):\n    print(\"  \")\n    for c in range(1, 6+1):\n        sheet.cell(r,c).value = \"welcome\"\nworkbook.save(file)  # save file after each execution",
         "detail": "selenium_practice.writingEXcelfile",
-        "documentation": {}
-    },
-    {
-        "label": "x",
-        "kind": 5,
-        "importPath": "math_sqrt_input",
-        "description": "math_sqrt_input",
-        "peekOfCode": "x = input(\"Enter a number:\")\n#find the square root of the number:\ny = math.sqrt(int(x))\nprint(f\"The square root of {x} is {y:.2f}\")",
-        "detail": "math_sqrt_input",
-        "documentation": {}
-    },
-    {
-        "label": "y",
-        "kind": 5,
-        "importPath": "math_sqrt_input",
-        "description": "math_sqrt_input",
-        "peekOfCode": "y = math.sqrt(int(x))\nprint(f\"The square root of {x} is {y:.2f}\")",
-        "detail": "math_sqrt_input",
-        "documentation": {}
-    },
-    {
-        "label": "organize_files",
-        "kind": 2,
-        "importPath": "organise_file_script",
-        "description": "organise_file_script",
-        "peekOfCode": "def organize_files(directory):\n    for file in os.listdir(directory):\n        file_path = os.path.join(directory, file)\n        if os.path.isfile(file_path):\n            ext = file.split('.')[-1]\n            folder = os.path.join(directory, ext.upper())\n            os.makedirs(folder, exist_ok=True)\n            shutil.move(file_path, os.path.join(folder, file))\n# Use raw string to avoid escape issues\norganize_files(r'C:\\Users\\91878\\python_tutotial')",
-        "detail": "organise_file_script",
-        "documentation": {}
-    },
-    {
-        "label": "b",
-        "kind": 5,
-        "importPath": "organise_file_script",
-        "description": "organise_file_script",
-        "peekOfCode": "b = re.search(\"be\", a)\nprint(b)\nimport os\nimport shutil\ndef organize_files(directory):\n    for file in os.listdir(directory):\n        file_path = os.path.join(directory, file)\n        if os.path.isfile(file_path):\n            ext = file.split('.')[-1]\n            folder = os.path.join(directory, ext.upper())",
-        "detail": "organise_file_script",
-        "documentation": {}
-    },
-    {
-        "label": "serv_obj",
-        "kind": 5,
-        "importPath": "read_html_row_column_savein_csv_txt",
-        "description": "read_html_row_column_savein_csv_txt",
-        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://testautomationpractice.blogspot.com/')\ndriver.maximize_window()\ntime.sleep(4)\n# Get column headers and row data\nno_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:",
-        "detail": "read_html_row_column_savein_csv_txt",
-        "documentation": {}
-    },
-    {
-        "label": "driver",
-        "kind": 5,
-        "importPath": "read_html_row_column_savein_csv_txt",
-        "description": "read_html_row_column_savein_csv_txt",
-        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://testautomationpractice.blogspot.com/')\ndriver.maximize_window()\ntime.sleep(4)\n# Get column headers and row data\nno_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(\"Column Headers:\\n\")",
-        "detail": "read_html_row_column_savein_csv_txt",
-        "documentation": {}
-    },
-    {
-        "label": "no_of_col",
-        "kind": 5,
-        "importPath": "read_html_row_column_savein_csv_txt",
-        "description": "read_html_row_column_savein_csv_txt",
-        "peekOfCode": "no_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(\"Column Headers:\\n\")\n    for col in no_of_col:\n        f.write(col.text + \"\\t\")\n    f.write(\"\\n\\nRows:\\n\")\n    for row in no_rows:\n        f.write(row.text + \"\\n\")",
-        "detail": "read_html_row_column_savein_csv_txt",
-        "documentation": {}
-    },
-    {
-        "label": "no_rows",
-        "kind": 5,
-        "importPath": "read_html_row_column_savein_csv_txt",
-        "description": "read_html_row_column_savein_csv_txt",
-        "peekOfCode": "no_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\n# Open a file to write (text file)\nwith open(\"web_table_data.txt\", \"w\", encoding=\"utf-8\") as f:\n    f.write(\"Column Headers:\\n\")\n    for col in no_of_col:\n        f.write(col.text + \"\\t\")\n    f.write(\"\\n\\nRows:\\n\")\n    for row in no_rows:\n        f.write(row.text + \"\\n\")\nprint(\"Data written to web_table_data.txt\")",
-        "detail": "read_html_row_column_savein_csv_txt",
         "documentation": {}
     }
 ]
