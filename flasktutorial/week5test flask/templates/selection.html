@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Selection Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="p-4">
+  
+<div class="container">
+    <form method="POST">
+    <h3>Select Calculation</h3>
+    <select name="calc_type" class="form-select mb-3" required>
+      <option value="Surface Area">Surface Area</option>
+      <option value="Volume">Volume</option>
+    </select>
+
+    <h3>Select Shape</h3>
+    <select name="shape" class="form-select mb-3" required>
+      <option value="Circle">Circle</option>
+      <option value="Square">Square</option>
+      <option value="Sphere">Sphere</option>
+      <option value="Cylinder">Cylinder</option>
+    </select>
+
+    <button class="btn btn-primary" type="submit">Next</button>
+  </form>
+  </div>
+</body>
+</html>

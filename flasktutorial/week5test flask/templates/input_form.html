@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Input Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="p-4">
+  <div class="cont">
+  <h3>Enter Inputs for {{ shape }} - {{ calc_type }}</h3>
+  <form method="POST">
+    {% if shape in ["Circle", "Sphere", "Cylinder"] %}
+      <label>Radius:</label>
+      <input type="number" step="any" name="radius" class="form-control mb-3" required>
+    {% endif %}
+
+    {% if shape == "Cylinder" %}
+      <label>Height:</label>
+      <input type="number" step="any" name="height" class="form-control mb-3" required>
+    {% endif %}
+
+    {% if shape == "Square" %}
+      <label>Side:</label>
+      <input type="number" step="any" name="side" class="form-control mb-3" required>
+    {% endif %}
+
+    <button class="btn btn-success" type="submit">Calculate</button>
+  </form>
+  </div>
+</body>
+</html>
