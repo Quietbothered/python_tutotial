@@ -461,21 +461,30 @@
         "documentation": {}
     },
     {
-        "label": "time",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "time",
-        "description": "time",
-        "detail": "time",
-        "documentation": {}
-    },
-    {
         "label": "pandas",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "pandas",
         "description": "pandas",
         "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "statsmodels.formula.api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statsmodels.formula.api",
+        "description": "statsmodels.formula.api",
+        "detail": "statsmodels.formula.api",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
         "documentation": {}
     },
     {
@@ -2562,6 +2571,78 @@
         "description": "flasktutorial.app",
         "peekOfCode": "db = SQLAlchemy(app)\n# Todo Model\nclass Todo(db.Model):\n    sno = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(200), nullable=False)\n    desc = db.Column(db.String(500), nullable=False)\n    date_created = db.Column(db.DateTime(timezone=True),default=lambda: datetime.now(timezone.utc))\n    def __repr__(self) -> str:\n        return f\"{self.sno} - {self.title}\"\n# Ensure DB is created",
         "detail": "flasktutorial.app",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas1",
+        "description": "pandas_numpy.pandas1",
+        "peekOfCode": "data = pd.DataFrame({\n    'choice': ['A', 'B', 'C', 'A', 'B', 'C', 'A', 'B', 'C', 'A'],\n    'feature1': [1,2,3,4,5,6,7,8,9,10],\n    'feature2': [10,9,8,7,6,5,4,3,2,1]\n})\n# Convert target to categorical codes\ndata['choice'] = pd.Categorical(data['choice']).codes\n# Fit the multinomial logistic regression model\nmodel = smf.mnlogit(formula='choice ~ feature1 + feature2', data=data).fit()\nprint(model.summary())",
+        "detail": "pandas_numpy.pandas1",
+        "documentation": {}
+    },
+    {
+        "label": "data['choice']",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas1",
+        "description": "pandas_numpy.pandas1",
+        "peekOfCode": "data['choice'] = pd.Categorical(data['choice']).codes\n# Fit the multinomial logistic regression model\nmodel = smf.mnlogit(formula='choice ~ feature1 + feature2', data=data).fit()\nprint(model.summary())",
+        "detail": "pandas_numpy.pandas1",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas1",
+        "description": "pandas_numpy.pandas1",
+        "peekOfCode": "model = smf.mnlogit(formula='choice ~ feature1 + feature2', data=data).fit()\nprint(model.summary())",
+        "detail": "pandas_numpy.pandas1",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas2",
+        "description": "pandas_numpy.pandas2",
+        "peekOfCode": "df = pd.read_csv('data.csv')\n# print(df)\nprint(df.info())\nprint(pd.options.display.max_rows)",
+        "detail": "pandas_numpy.pandas2",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas2info_maxdisplay",
+        "description": "pandas_numpy.pandas2info_maxdisplay",
+        "peekOfCode": "df = pd.read_csv('data.csv')\n# print(df)\nprint(df.info())\nprint(pd.options.display.max_rows)",
+        "detail": "pandas_numpy.pandas2info_maxdisplay",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas3",
+        "description": "pandas_numpy.pandas3",
+        "peekOfCode": "data = {\n  \"Duration\":{\n    \"0\":60,\n    \"1\":60,\n    \"2\":60,\n    \"3\":45,\n    \"4\":45,\n    \"5\":60\n  },\n  \"Pulse\":{",
+        "detail": "pandas_numpy.pandas3",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas3",
+        "description": "pandas_numpy.pandas3",
+        "peekOfCode": "df = pd.DataFrame(data)\nprint(df) \nprint(df.info())",
+        "detail": "pandas_numpy.pandas3",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "pandas_numpy.pandas3cleaning",
+        "description": "pandas_numpy.pandas3cleaning",
+        "peekOfCode": "df = pd.read_csv(\"data.csv\")\n# if you want to change in original dataframe use df.dropna(inframe = True)\nnew_df= df.dropna()\nprint(new_df.to_string())",
+        "detail": "pandas_numpy.pandas3cleaning",
         "documentation": {}
     },
     {
