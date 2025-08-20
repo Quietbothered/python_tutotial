@@ -21,9 +21,6 @@ from selenium.common.exceptions import (
     ElementNotVisibleException,
     ElementNotSelectableException
 )
-
-
-
 serv_obj = Service(r"C:\Driver\chromedriver-win64\chromedriver-win64\chromedriver.exe")
 driver = webdriver.Chrome(service=serv_obj)
 # mywait = WebDriverWait(driver, 100) #explicit wait declaration

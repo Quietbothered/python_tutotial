@@ -1,0 +1,3313 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ElementNotVisibleException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ElementNotSelectableException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait       ",
+        "description": "selenium.webdriver.support.wait       ",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait       ",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait       ",
+        "description": "selenium.webdriver.support.wait       ",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait       ",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait       ",
+        "description": "selenium.webdriver.support.wait       ",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait       ",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait       ",
+        "description": "selenium.webdriver.support.wait       ",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait       ",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "openpyxl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by ",
+        "description": "selenium.webdriver.common.by ",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by ",
+        "documentation": {}
+    },
+    {
+        "label": "PatternFill",
+        "importPath": "openpyxl.styles",
+        "description": "openpyxl.styles",
+        "isExtraImport": true,
+        "detail": "openpyxl.styles",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len('Scripts') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len('Scripts') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "1findElement",
+        "description": "1findElement",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.ID, \"small-searchterms\").send_keys(\"Lenovo Thinkpad X1 Carbon Laptop\")\ndriver.find_element(By.LINK_TEXT, \"Register\").click()\nsliders = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(sliders))\ntime.sleep(2)\n#linktext and partial link text",
+        "detail": "1findElement",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "1findElement",
+        "description": "1findElement",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.ID, \"small-searchterms\").send_keys(\"Lenovo Thinkpad X1 Carbon Laptop\")\ndriver.find_element(By.LINK_TEXT, \"Register\").click()\nsliders = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(sliders))\ntime.sleep(2)\n#linktext and partial link text\n# driver.find_element(By.LINK_TEXT, )",
+        "detail": "1findElement",
+        "documentation": {}
+    },
+    {
+        "label": "sliders",
+        "kind": 5,
+        "importPath": "1findElement",
+        "description": "1findElement",
+        "peekOfCode": "sliders = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(sliders))\ntime.sleep(2)\n#linktext and partial link text\n# driver.find_element(By.LINK_TEXT, )",
+        "detail": "1findElement",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "action_chain_drag_and_drop_",
+        "description": "action_chain_drag_and_drop_",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://demo.automationtesting.in/Static.html')\ndriver.maximize_window()\ntime.sleep(3)\nsrc_ele = driver.find_element(By.XPATH, '//*[@id=\"dragarea\"]/div[2]')\ntarget_ele = driver.find_element(By.XPATH, '//*[@id=\"droparea\"]')\nact = ActionChains(driver)\nact.drag_and_drop(src_ele, target_ele).perform()",
+        "detail": "action_chain_drag_and_drop_",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "action_chain_drag_and_drop_",
+        "description": "action_chain_drag_and_drop_",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://demo.automationtesting.in/Static.html')\ndriver.maximize_window()\ntime.sleep(3)\nsrc_ele = driver.find_element(By.XPATH, '//*[@id=\"dragarea\"]/div[2]')\ntarget_ele = driver.find_element(By.XPATH, '//*[@id=\"droparea\"]')\nact = ActionChains(driver)\nact.drag_and_drop(src_ele, target_ele).perform()",
+        "detail": "action_chain_drag_and_drop_",
+        "documentation": {}
+    },
+    {
+        "label": "src_ele",
+        "kind": 5,
+        "importPath": "action_chain_drag_and_drop_",
+        "description": "action_chain_drag_and_drop_",
+        "peekOfCode": "src_ele = driver.find_element(By.XPATH, '//*[@id=\"dragarea\"]/div[2]')\ntarget_ele = driver.find_element(By.XPATH, '//*[@id=\"droparea\"]')\nact = ActionChains(driver)\nact.drag_and_drop(src_ele, target_ele).perform()",
+        "detail": "action_chain_drag_and_drop_",
+        "documentation": {}
+    },
+    {
+        "label": "target_ele",
+        "kind": 5,
+        "importPath": "action_chain_drag_and_drop_",
+        "description": "action_chain_drag_and_drop_",
+        "peekOfCode": "target_ele = driver.find_element(By.XPATH, '//*[@id=\"droparea\"]')\nact = ActionChains(driver)\nact.drag_and_drop(src_ele, target_ele).perform()",
+        "detail": "action_chain_drag_and_drop_",
+        "documentation": {}
+    },
+    {
+        "label": "act",
+        "kind": 5,
+        "importPath": "action_chain_drag_and_drop_",
+        "description": "action_chain_drag_and_drop_",
+        "peekOfCode": "act = ActionChains(driver)\nact.drag_and_drop(src_ele, target_ele).perform()",
+        "detail": "action_chain_drag_and_drop_",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "application_command",
+        "description": "application_command",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\n#application commands  \n#get  title current_url page_source\ndriver.get(\"https://money.rediff.com/gainers/bse/daily/groupall\")\nprint(driver.title)\nprint(driver.current_url)\nprint(driver.page_source)",
+        "detail": "application_command",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "application_command",
+        "description": "application_command",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\n#application commands  \n#get  title current_url page_source\ndriver.get(\"https://money.rediff.com/gainers/bse/daily/groupall\")\nprint(driver.title)\nprint(driver.current_url)\nprint(driver.page_source)",
+        "detail": "application_command",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "authentication_through_url_popupwindow",
+        "description": "authentication_through_url_popupwindow",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://admin:admin@the-internet.herokuapp.com/basic_auth\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(5)",
+        "detail": "authentication_through_url_popupwindow",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "authentication_through_url_popupwindow",
+        "description": "authentication_through_url_popupwindow",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://admin:admin@the-internet.herokuapp.com/basic_auth\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(5)",
+        "detail": "authentication_through_url_popupwindow",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "browser_commands",
+        "description": "browser_commands",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()\n# driver.find_element(By.XPATH,\"//ul[@class='top-menu notmobile']//a[normalize-space()='Computers']\" ).click()\ndriver.find_element(By.LINK_TEXT, \"Computers\").click()\ntime.sleep(5)\n# driver.close()\ndriver.quit()",
+        "detail": "browser_commands",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "browser_commands",
+        "description": "browser_commands",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()\n# driver.find_element(By.XPATH,\"//ul[@class='top-menu notmobile']//a[normalize-space()='Computers']\" ).click()\ndriver.find_element(By.LINK_TEXT, \"Computers\").click()\ntime.sleep(5)\n# driver.close()\ndriver.quit()",
+        "detail": "browser_commands",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "chainAction_mouse_Operations",
+        "description": "chainAction_mouse_Operations",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://demo.automationtesting.in/WebTable.html')\ndriver.maximize_window()\ntime.sleep(3)\na = driver.find_element(By.XPATH, '//a[normalize-space()=\"Interactions\"]')\nb = driver.find_element(By.XPATH, '//a[normalize-space()=\"Drag and Drop\"]')\nc = driver.find_element(By.XPATH, '//a[normalize-space()=\"Static\"]')\n#mouse hover movement\nact = ActionChains(driver)",
+        "detail": "chainAction_mouse_Operations",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "chainAction_mouse_Operations",
+        "description": "chainAction_mouse_Operations",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://demo.automationtesting.in/WebTable.html')\ndriver.maximize_window()\ntime.sleep(3)\na = driver.find_element(By.XPATH, '//a[normalize-space()=\"Interactions\"]')\nb = driver.find_element(By.XPATH, '//a[normalize-space()=\"Drag and Drop\"]')\nc = driver.find_element(By.XPATH, '//a[normalize-space()=\"Static\"]')\n#mouse hover movement\nact = ActionChains(driver)\nact.move_to_element(a).move_to_element(b).move_to_element(c).click().perform()",
+        "detail": "chainAction_mouse_Operations",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "chainAction_mouse_Operations",
+        "description": "chainAction_mouse_Operations",
+        "peekOfCode": "a = driver.find_element(By.XPATH, '//a[normalize-space()=\"Interactions\"]')\nb = driver.find_element(By.XPATH, '//a[normalize-space()=\"Drag and Drop\"]')\nc = driver.find_element(By.XPATH, '//a[normalize-space()=\"Static\"]')\n#mouse hover movement\nact = ActionChains(driver)\nact.move_to_element(a).move_to_element(b).move_to_element(c).click().perform()\ntime.sleep(3)",
+        "detail": "chainAction_mouse_Operations",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "chainAction_mouse_Operations",
+        "description": "chainAction_mouse_Operations",
+        "peekOfCode": "b = driver.find_element(By.XPATH, '//a[normalize-space()=\"Drag and Drop\"]')\nc = driver.find_element(By.XPATH, '//a[normalize-space()=\"Static\"]')\n#mouse hover movement\nact = ActionChains(driver)\nact.move_to_element(a).move_to_element(b).move_to_element(c).click().perform()\ntime.sleep(3)",
+        "detail": "chainAction_mouse_Operations",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "chainAction_mouse_Operations",
+        "description": "chainAction_mouse_Operations",
+        "peekOfCode": "c = driver.find_element(By.XPATH, '//a[normalize-space()=\"Static\"]')\n#mouse hover movement\nact = ActionChains(driver)\nact.move_to_element(a).move_to_element(b).move_to_element(c).click().perform()\ntime.sleep(3)",
+        "detail": "chainAction_mouse_Operations",
+        "documentation": {}
+    },
+    {
+        "label": "act",
+        "kind": 5,
+        "importPath": "chainAction_mouse_Operations",
+        "description": "chainAction_mouse_Operations",
+        "peekOfCode": "act = ActionChains(driver)\nact.move_to_element(a).move_to_element(b).move_to_element(c).click().perform()\ntime.sleep(3)",
+        "detail": "chainAction_mouse_Operations",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "chain_action_right_click",
+        "description": "chain_action_right_click",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://swisnl.github.io/jQuery-contextMenu/demo.html')\ndriver.maximize_window()\ntime.sleep(3)\nbutton = driver.find_element(By.XPATH, \"/html/body/div/section/div/div/div/p/span\")\nact = ActionChains(driver)\nact.context_click(button).perform()\ntime.sleep(4)",
+        "detail": "chain_action_right_click",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "chain_action_right_click",
+        "description": "chain_action_right_click",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://swisnl.github.io/jQuery-contextMenu/demo.html')\ndriver.maximize_window()\ntime.sleep(3)\nbutton = driver.find_element(By.XPATH, \"/html/body/div/section/div/div/div/p/span\")\nact = ActionChains(driver)\nact.context_click(button).perform()\ntime.sleep(4)",
+        "detail": "chain_action_right_click",
+        "documentation": {}
+    },
+    {
+        "label": "button",
+        "kind": 5,
+        "importPath": "chain_action_right_click",
+        "description": "chain_action_right_click",
+        "peekOfCode": "button = driver.find_element(By.XPATH, \"/html/body/div/section/div/div/div/p/span\")\nact = ActionChains(driver)\nact.context_click(button).perform()\ntime.sleep(4)",
+        "detail": "chain_action_right_click",
+        "documentation": {}
+    },
+    {
+        "label": "act",
+        "kind": 5,
+        "importPath": "chain_action_right_click",
+        "description": "chain_action_right_click",
+        "peekOfCode": "act = ActionChains(driver)\nact.context_click(button).perform()\ntime.sleep(4)",
+        "detail": "chain_action_right_click",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "checkbox_selection",
+        "description": "checkbox_selection",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://rahulshettyacademy.com/AutomationPractice/\")\ndriver.maximize_window()\n#select specific checkbox from list\n# driver.find_element(By.XPATH, '//input[@id=\"checkBoxOption1\"]').click()\n#select all check boxes\ncheckboxes = driver.find_elements(By.XPATH, '//input[@type = \"checkbox\"]')\nprint(\"all check boxes are      \",len(checkboxes))\n# for i in range(len(checkboxes)):",
+        "detail": "checkbox_selection",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "checkbox_selection",
+        "description": "checkbox_selection",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://rahulshettyacademy.com/AutomationPractice/\")\ndriver.maximize_window()\n#select specific checkbox from list\n# driver.find_element(By.XPATH, '//input[@id=\"checkBoxOption1\"]').click()\n#select all check boxes\ncheckboxes = driver.find_elements(By.XPATH, '//input[@type = \"checkbox\"]')\nprint(\"all check boxes are      \",len(checkboxes))\n# for i in range(len(checkboxes)):\n#     checkboxes[i].click()",
+        "detail": "checkbox_selection",
+        "documentation": {}
+    },
+    {
+        "label": "checkboxes",
+        "kind": 5,
+        "importPath": "checkbox_selection",
+        "description": "checkbox_selection",
+        "peekOfCode": "checkboxes = driver.find_elements(By.XPATH, '//input[@type = \"checkbox\"]')\nprint(\"all check boxes are      \",len(checkboxes))\n# for i in range(len(checkboxes)):\n#     checkboxes[i].click()\n# aproach 2\nfor checkbox in checkboxes:\n    checkbox.click()\n#3 selewct multiple check boxes using condition\nfor checkbox in checkboxes:\n    optname = checkbox.get_attribute('id')",
+        "detail": "checkbox_selection",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "collecting_tabledata",
+        "description": "collecting_tabledata",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')\ndriver.maximize_window()\ntime.sleep(3)\n#login creditial//input[@placeholder=\"username\"]\ndriver.find_element(By.XPATH, '//input[@placeholder=\"Username\"]').send_keys('Admin')\ndriver.find_element(By.XPATH, '//input[@placeholder=\"Password\"]').send_keys('admin123')\ndriver.find_element(By.XPATH, '//button[normalize-space()=\"Login\"]').click()\ntime.sleep(4)",
+        "detail": "collecting_tabledata",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "collecting_tabledata",
+        "description": "collecting_tabledata",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')\ndriver.maximize_window()\ntime.sleep(3)\n#login creditial//input[@placeholder=\"username\"]\ndriver.find_element(By.XPATH, '//input[@placeholder=\"Username\"]').send_keys('Admin')\ndriver.find_element(By.XPATH, '//input[@placeholder=\"Password\"]').send_keys('admin123')\ndriver.find_element(By.XPATH, '//button[normalize-space()=\"Login\"]').click()\ntime.sleep(4)\ndriver.find_element(By.XPATH, '//aside[@class=\"oxd-sidepanel\"]//li[1]').click()",
+        "detail": "collecting_tabledata",
+        "documentation": {}
+    },
+    {
+        "label": "wait",
+        "kind": 5,
+        "importPath": "collecting_tabledata",
+        "description": "collecting_tabledata",
+        "peekOfCode": "wait = WebDriverWait(driver, 10)\ndropdown_item = wait.until(EC.presence_of_element_located((By.XPATH, \"//ul[@class='oxd-dropdown-menu']//li\")))\ndropdown_item.click()\ntime.sleep(2)\nrows_list = driver.find_elements(By.XPATH, '//div[@class=\"oxd-table-body\"]/div')\nprint('total number of rows : ',len(rows_list))\ncount = 0\nfor i in range(1,len(rows_list)+1):\n    status = driver.find_element(By.XPATH,'//div[@class=\"oxd-table-body\"]/div['+str(i)+']/div/div[5]')\n    if status.text == 'Enabled':",
+        "detail": "collecting_tabledata",
+        "documentation": {}
+    },
+    {
+        "label": "dropdown_item",
+        "kind": 5,
+        "importPath": "collecting_tabledata",
+        "description": "collecting_tabledata",
+        "peekOfCode": "dropdown_item = wait.until(EC.presence_of_element_located((By.XPATH, \"//ul[@class='oxd-dropdown-menu']//li\")))\ndropdown_item.click()\ntime.sleep(2)\nrows_list = driver.find_elements(By.XPATH, '//div[@class=\"oxd-table-body\"]/div')\nprint('total number of rows : ',len(rows_list))\ncount = 0\nfor i in range(1,len(rows_list)+1):\n    status = driver.find_element(By.XPATH,'//div[@class=\"oxd-table-body\"]/div['+str(i)+']/div/div[5]')\n    if status.text == 'Enabled':\n        count+=1",
+        "detail": "collecting_tabledata",
+        "documentation": {}
+    },
+    {
+        "label": "rows_list",
+        "kind": 5,
+        "importPath": "collecting_tabledata",
+        "description": "collecting_tabledata",
+        "peekOfCode": "rows_list = driver.find_elements(By.XPATH, '//div[@class=\"oxd-table-body\"]/div')\nprint('total number of rows : ',len(rows_list))\ncount = 0\nfor i in range(1,len(rows_list)+1):\n    status = driver.find_element(By.XPATH,'//div[@class=\"oxd-table-body\"]/div['+str(i)+']/div/div[5]')\n    if status.text == 'Enabled':\n        count+=1\nprint(\"total enabled users\",count)\ntime.sleep(10)",
+        "detail": "collecting_tabledata",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "collecting_tabledata",
+        "description": "collecting_tabledata",
+        "peekOfCode": "count = 0\nfor i in range(1,len(rows_list)+1):\n    status = driver.find_element(By.XPATH,'//div[@class=\"oxd-table-body\"]/div['+str(i)+']/div/div[5]')\n    if status.text == 'Enabled':\n        count+=1\nprint(\"total enabled users\",count)\ntime.sleep(10)",
+        "detail": "collecting_tabledata",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "conditional_command",
+        "description": "conditional_command",
+        "peekOfCode": "serv_obj = Service(\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/register?returnUrl=%2F\")\ndriver.maximize_window()\n#code herer\n# search_box = driver.find_element(By.XPATH, '//input[@id=\"small-searchterms\"]')\n# print(search_box.is_displayed())\n# print(search_box.is_enabled())\nrd_male = driver.find_element(By.XPATH, \"//input[@id='gender-male']\")\nprint(rd_male.is_selected())",
+        "detail": "conditional_command",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "conditional_command",
+        "description": "conditional_command",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/register?returnUrl=%2F\")\ndriver.maximize_window()\n#code herer\n# search_box = driver.find_element(By.XPATH, '//input[@id=\"small-searchterms\"]')\n# print(search_box.is_displayed())\n# print(search_box.is_enabled())\nrd_male = driver.find_element(By.XPATH, \"//input[@id='gender-male']\")\nprint(rd_male.is_selected())\nrd_male.click()",
+        "detail": "conditional_command",
+        "documentation": {}
+    },
+    {
+        "label": "rd_male",
+        "kind": 5,
+        "importPath": "conditional_command",
+        "description": "conditional_command",
+        "peekOfCode": "rd_male = driver.find_element(By.XPATH, \"//input[@id='gender-male']\")\nprint(rd_male.is_selected())\nrd_male.click()\ntime.sleep(2)\nprint(\"after selecting\")\n# rd_male = driver.find_element(By.XPATH, '//span[@class=\"male\"]/following::*')\nprint(rd_male.is_selected())",
+        "detail": "conditional_command",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "conditional_operation",
+        "description": "conditional_operation",
+        "peekOfCode": "serv_obj = Service(\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/register?returnUrl=%2F\")\ndriver.maximize_window()\n#code herer\n# search_box = driver.find_element(By.XPATH, '//input[@id=\"small-searchterms\"]')\n# print(search_box.is_displayed())\n# print(search_box.is_enabled())\nrd_male = driver.find_element(By.XPATH, \"//input[@id='gender-male']\")\nprint(rd_male.is_selected())",
+        "detail": "conditional_operation",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "conditional_operation",
+        "description": "conditional_operation",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/register?returnUrl=%2F\")\ndriver.maximize_window()\n#code herer\n# search_box = driver.find_element(By.XPATH, '//input[@id=\"small-searchterms\"]')\n# print(search_box.is_displayed())\n# print(search_box.is_enabled())\nrd_male = driver.find_element(By.XPATH, \"//input[@id='gender-male']\")\nprint(rd_male.is_selected())\nrd_male.click()",
+        "detail": "conditional_operation",
+        "documentation": {}
+    },
+    {
+        "label": "rd_male",
+        "kind": 5,
+        "importPath": "conditional_operation",
+        "description": "conditional_operation",
+        "peekOfCode": "rd_male = driver.find_element(By.XPATH, \"//input[@id='gender-male']\")\nprint(rd_male.is_selected())\nrd_male.click()\ntime.sleep(2)\nprint(\"after selecting\")\n# rd_male = driver.find_element(By.XPATH, '//span[@class=\"male\"]/following::*')\nprint(rd_male.is_selected())",
+        "detail": "conditional_operation",
+        "documentation": {}
+    },
+    {
+        "label": "loc",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "loc = os.getcwd()\nfrom selenium.webdriver.chrome.service import Service\nserv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://demo.nopcommerce.com/')\ndriver.maximize_window()\ncookie = driver.get_cookies()\nprint(\"coolie dict length\", len(cookie))\nfor i in cookie :\n    print(i['name']+':')",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "serv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://demo.nopcommerce.com/')\ndriver.maximize_window()\ncookie = driver.get_cookies()\nprint(\"coolie dict length\", len(cookie))\nfor i in cookie :\n    print(i['name']+':')\n    print(type(i.get('name')),':',i.get('secure'))\n    pass",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://demo.nopcommerce.com/')\ndriver.maximize_window()\ncookie = driver.get_cookies()\nprint(\"coolie dict length\", len(cookie))\nfor i in cookie :\n    print(i['name']+':')\n    print(type(i.get('name')),':',i.get('secure'))\n    pass\ndriver.add_cookie({\"name\": \"mycookie\",",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "cookie",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "cookie = driver.get_cookies()\nprint(\"coolie dict length\", len(cookie))\nfor i in cookie :\n    print(i['name']+':')\n    print(type(i.get('name')),':',i.get('secure'))\n    pass\ndriver.add_cookie({\"name\": \"mycookie\",\n    \"value\": \"12345621\",\n    \"secure\": True})\ncookie = driver.get_cookies()",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "cookie",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "cookie = driver.get_cookies()\nprint(\"coolie dict length new \", len(cookie))\nfor i in cookie :\n    print(i['name']+':')\n    print(type(i.get('name')),':',i.get('secure'))\n# delete specific cookie \ndriver.delete_cookie(\"mycookie\")\ncookie = driver.get_cookies()\nprint(len(cookie))\ndriver.delete_all_cookies()",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "cookie",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "cookie = driver.get_cookies()\nprint(len(cookie))\ndriver.delete_all_cookies()\ncookie = driver.get_cookies()\nprint(len(cookie))\nfor i in cookie :\n    print(i['name']+':')\n    print(type(i.get('name')),':',i.get('secure'))",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "cookie",
+        "kind": 5,
+        "importPath": "coockie_handling",
+        "description": "coockie_handling",
+        "peekOfCode": "cookie = driver.get_cookies()\nprint(len(cookie))\nfor i in cookie :\n    print(i['name']+':')\n    print(type(i.get('name')),':',i.get('secure'))",
+        "detail": "coockie_handling",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "copyPasteAutomation",
+        "description": "copyPasteAutomation",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://text-compare.com/')\ndriver.maximize_window()\nimput1 = driver.find_element(By.XPATH, '//*[@id=\"inputText1\"]')\nimput2 = driver.find_element(By.XPATH, '//*[@id=\"inputText2\"]')\n# driver.find_element(By.XPATH, \"\")\nimput1.send_keys(\"jju2bijbrratatatata\")\nact = ActionChains(driver)\nact.key_down(Keys.CONTROL).send_keys(\"a\").key_up(Keys.CONTROL).perform()",
+        "detail": "copyPasteAutomation",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "copyPasteAutomation",
+        "description": "copyPasteAutomation",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://text-compare.com/')\ndriver.maximize_window()\nimput1 = driver.find_element(By.XPATH, '//*[@id=\"inputText1\"]')\nimput2 = driver.find_element(By.XPATH, '//*[@id=\"inputText2\"]')\n# driver.find_element(By.XPATH, \"\")\nimput1.send_keys(\"jju2bijbrratatatata\")\nact = ActionChains(driver)\nact.key_down(Keys.CONTROL).send_keys(\"a\").key_up(Keys.CONTROL).perform()\n# input 1 ---> copy  Copy TEXT",
+        "detail": "copyPasteAutomation",
+        "documentation": {}
+    },
+    {
+        "label": "imput1",
+        "kind": 5,
+        "importPath": "copyPasteAutomation",
+        "description": "copyPasteAutomation",
+        "peekOfCode": "imput1 = driver.find_element(By.XPATH, '//*[@id=\"inputText1\"]')\nimput2 = driver.find_element(By.XPATH, '//*[@id=\"inputText2\"]')\n# driver.find_element(By.XPATH, \"\")\nimput1.send_keys(\"jju2bijbrratatatata\")\nact = ActionChains(driver)\nact.key_down(Keys.CONTROL).send_keys(\"a\").key_up(Keys.CONTROL).perform()\n# input 1 ---> copy  Copy TEXT\nact.key_down(Keys.CONTROL).send_keys(\"c\").key_up(Keys.CONTROL).perform()\n#use tab to change box of input \nact.send_keys(Keys.TAB).perform()",
+        "detail": "copyPasteAutomation",
+        "documentation": {}
+    },
+    {
+        "label": "imput2",
+        "kind": 5,
+        "importPath": "copyPasteAutomation",
+        "description": "copyPasteAutomation",
+        "peekOfCode": "imput2 = driver.find_element(By.XPATH, '//*[@id=\"inputText2\"]')\n# driver.find_element(By.XPATH, \"\")\nimput1.send_keys(\"jju2bijbrratatatata\")\nact = ActionChains(driver)\nact.key_down(Keys.CONTROL).send_keys(\"a\").key_up(Keys.CONTROL).perform()\n# input 1 ---> copy  Copy TEXT\nact.key_down(Keys.CONTROL).send_keys(\"c\").key_up(Keys.CONTROL).perform()\n#use tab to change box of input \nact.send_keys(Keys.TAB).perform()\n# paste command",
+        "detail": "copyPasteAutomation",
+        "documentation": {}
+    },
+    {
+        "label": "act",
+        "kind": 5,
+        "importPath": "copyPasteAutomation",
+        "description": "copyPasteAutomation",
+        "peekOfCode": "act = ActionChains(driver)\nact.key_down(Keys.CONTROL).send_keys(\"a\").key_up(Keys.CONTROL).perform()\n# input 1 ---> copy  Copy TEXT\nact.key_down(Keys.CONTROL).send_keys(\"c\").key_up(Keys.CONTROL).perform()\n#use tab to change box of input \nact.send_keys(Keys.TAB).perform()\n# paste command\nact.key_down(Keys.CONTROL).send_keys(\"v\").key_up(Keys.CONTROL).perform()\ntime.sleep(3)",
+        "detail": "copyPasteAutomation",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "count_htmltable_rows_column",
+        "description": "count_htmltable_rows_column",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\n#  count number of rows in a web table\ndriver.get('https://testautomationpractice.blogspot.com/')\ndriver.maximize_window()\ntime.sleep(4)\nno_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\nfor i in no_of_col:\n    print(i.text)",
+        "detail": "count_htmltable_rows_column",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "count_htmltable_rows_column",
+        "description": "count_htmltable_rows_column",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\n#  count number of rows in a web table\ndriver.get('https://testautomationpractice.blogspot.com/')\ndriver.maximize_window()\ntime.sleep(4)\nno_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\nfor i in no_of_col:\n    print(i.text)\nfor i in no_rows:",
+        "detail": "count_htmltable_rows_column",
+        "documentation": {}
+    },
+    {
+        "label": "no_of_col",
+        "kind": 5,
+        "importPath": "count_htmltable_rows_column",
+        "description": "count_htmltable_rows_column",
+        "peekOfCode": "no_of_col = driver.find_elements(By.XPATH, '//*[@id=\"HTML1\"]/div[1]/table/tbody/tr[1]/th')\nno_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\nfor i in no_of_col:\n    print(i.text)\nfor i in no_rows:\n    print(i.text)\nprint(len(no_of_col))\nprint('rows',len(no_rows))\n# how to read proper table content of specific row or column",
+        "detail": "count_htmltable_rows_column",
+        "documentation": {}
+    },
+    {
+        "label": "no_rows",
+        "kind": 5,
+        "importPath": "count_htmltable_rows_column",
+        "description": "count_htmltable_rows_column",
+        "peekOfCode": "no_rows = driver.find_elements(By.XPATH, \"//table[@name = 'BookTable']//tr\")\nfor i in no_of_col:\n    print(i.text)\nfor i in no_rows:\n    print(i.text)\nprint(len(no_of_col))\nprint('rows',len(no_rows))\n# how to read proper table content of specific row or column",
+        "detail": "count_htmltable_rows_column",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "date_picker1",
+        "description": "date_picker1",
+        "peekOfCode": "serv_obj = Service('C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://jqueryui.com/datepicker/\")\ndriver.maximize_window()\nyear = \"2027\"\nmonth = \"August\"\ndate = '25'\ndriver.switch_to.frame(0)\ndriver.find_element(By.XPATH, '//*[@id=\"datepicker\"]').click()\nwhile True:",
+        "detail": "date_picker1",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "date_picker1",
+        "description": "date_picker1",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://jqueryui.com/datepicker/\")\ndriver.maximize_window()\nyear = \"2027\"\nmonth = \"August\"\ndate = '25'\ndriver.switch_to.frame(0)\ndriver.find_element(By.XPATH, '//*[@id=\"datepicker\"]').click()\nwhile True:\n    yr = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[2]').text",
+        "detail": "date_picker1",
+        "documentation": {}
+    },
+    {
+        "label": "year",
+        "kind": 5,
+        "importPath": "date_picker1",
+        "description": "date_picker1",
+        "peekOfCode": "year = \"2027\"\nmonth = \"August\"\ndate = '25'\ndriver.switch_to.frame(0)\ndriver.find_element(By.XPATH, '//*[@id=\"datepicker\"]').click()\nwhile True:\n    yr = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[2]').text\n    mon = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[1]').text\n    if month == mon and yr == year :\n        break",
+        "detail": "date_picker1",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "kind": 5,
+        "importPath": "date_picker1",
+        "description": "date_picker1",
+        "peekOfCode": "month = \"August\"\ndate = '25'\ndriver.switch_to.frame(0)\ndriver.find_element(By.XPATH, '//*[@id=\"datepicker\"]').click()\nwhile True:\n    yr = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[2]').text\n    mon = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[1]').text\n    if month == mon and yr == year :\n        break\n    else :",
+        "detail": "date_picker1",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "kind": 5,
+        "importPath": "date_picker1",
+        "description": "date_picker1",
+        "peekOfCode": "date = '25'\ndriver.switch_to.frame(0)\ndriver.find_element(By.XPATH, '//*[@id=\"datepicker\"]').click()\nwhile True:\n    yr = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[2]').text\n    mon = driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/div/span[1]').text\n    if month == mon and yr == year :\n        break\n    else :\n        driver.find_element(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/div/a[2]/span').click()",
+        "detail": "date_picker1",
+        "documentation": {}
+    },
+    {
+        "label": "dates",
+        "kind": 5,
+        "importPath": "date_picker1",
+        "description": "date_picker1",
+        "peekOfCode": "dates = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]//table/tbody/tr/td/a')\nfor element in dates:\n    if element.text == date:\n        element.click()\n        break\ntime.sleep(4)",
+        "detail": "date_picker1",
+        "documentation": {}
+    },
+    {
+        "label": "demoFindelement",
+        "kind": 6,
+        "importPath": "DemoElementLocator",
+        "description": "DemoElementLocator",
+        "peekOfCode": "class demoFindelement():\n    def locate_by_id_demo(self):\n        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))\n        driver.get(\"https://secure.yatra.com/social/common/yatra/signin.htm\")\n        driver.find_element(By.ID ,\"login-input\" ).send_keys(\"test@test.com\")\nfindbyid = demoFindelement()\nfindbyid.locate_by_id_demo()",
+        "detail": "DemoElementLocator",
+        "documentation": {}
+    },
+    {
+        "label": "findbyid",
+        "kind": 5,
+        "importPath": "DemoElementLocator",
+        "description": "DemoElementLocator",
+        "peekOfCode": "findbyid = demoFindelement()\nfindbyid.locate_by_id_demo()",
+        "detail": "DemoElementLocator",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "double_click_action",
+        "description": "double_click_action",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.implicitly_wait(12)\ndriver.get('https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_ondblclick3')\ndriver.maximize_window()\ntime.sleep(3)\ndriver.switch_to.frame('iframeResult')\nfield = driver.find_element(By.XPATH , '//*[@id=\"field1\"]')\nfield.clear()\nfield.send_keys(\"alpha beta gama\")",
+        "detail": "double_click_action",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "double_click_action",
+        "description": "double_click_action",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.implicitly_wait(12)\ndriver.get('https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_ondblclick3')\ndriver.maximize_window()\ntime.sleep(3)\ndriver.switch_to.frame('iframeResult')\nfield = driver.find_element(By.XPATH , '//*[@id=\"field1\"]')\nfield.clear()\nfield.send_keys(\"alpha beta gama\")\nact = ActionChains(driver)",
+        "detail": "double_click_action",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "kind": 5,
+        "importPath": "double_click_action",
+        "description": "double_click_action",
+        "peekOfCode": "field = driver.find_element(By.XPATH , '//*[@id=\"field1\"]')\nfield.clear()\nfield.send_keys(\"alpha beta gama\")\nact = ActionChains(driver)\nbutton = driver.find_element(By.XPATH, '/html/body/button')\nact.double_click(button).perform()\ntime.sleep(3)",
+        "detail": "double_click_action",
+        "documentation": {}
+    },
+    {
+        "label": "act",
+        "kind": 5,
+        "importPath": "double_click_action",
+        "description": "double_click_action",
+        "peekOfCode": "act = ActionChains(driver)\nbutton = driver.find_element(By.XPATH, '/html/body/button')\nact.double_click(button).perform()\ntime.sleep(3)",
+        "detail": "double_click_action",
+        "documentation": {}
+    },
+    {
+        "label": "button",
+        "kind": 5,
+        "importPath": "double_click_action",
+        "description": "double_click_action",
+        "peekOfCode": "button = driver.find_element(By.XPATH, '/html/body/button')\nact.double_click(button).perform()\ntime.sleep(3)",
+        "detail": "double_click_action",
+        "documentation": {}
+    },
+    {
+        "label": "chrome_setup",
+        "kind": 2,
+        "importPath": "downloading_file_from_browser_with_loca",
+        "description": "downloading_file_from_browser_with_loca",
+        "peekOfCode": "def chrome_setup():\n    from selenium.webdriver.chrome.service import  Service\n    serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\n    # download file on desired location\n    # preferences = {\"download.default_directory\":r\"C:\\Users\\91878\\python_tutotial\\selenium_practice\"}\n    preferences = {\"download.default_directory\":f'{loc}\\selenium_practice', \"plugins.always_open_document_externally\":True}\n    ops = webdriver.ChromeOptions()\n    ops.add_experimental_option(\"prefs\",preferences)\n    driver = webdriver.Chrome(service=serv_obj,options=ops)\n    return driver",
+        "detail": "downloading_file_from_browser_with_loca",
+        "documentation": {}
+    },
+    {
+        "label": "loc",
+        "kind": 5,
+        "importPath": "downloading_file_from_browser_with_loca",
+        "description": "downloading_file_from_browser_with_loca",
+        "peekOfCode": "loc = os.getcwd()\nprint(loc)\ndef chrome_setup():\n    from selenium.webdriver.chrome.service import  Service\n    serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\n    # download file on desired location\n    # preferences = {\"download.default_directory\":r\"C:\\Users\\91878\\python_tutotial\\selenium_practice\"}\n    preferences = {\"download.default_directory\":f'{loc}\\selenium_practice', \"plugins.always_open_document_externally\":True}\n    ops = webdriver.ChromeOptions()\n    ops.add_experimental_option(\"prefs\",preferences)",
+        "detail": "downloading_file_from_browser_with_loca",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "downloading_file_from_browser_with_loca",
+        "description": "downloading_file_from_browser_with_loca",
+        "peekOfCode": "driver = chrome_setup()\ndriver.get('https://www.examplefile.com/document/pdf/1-mb-pdf')\ndriver.maximize_window()\nflag = driver.find_element(By.XPATH, '//a[normalize-space()=\"Download\"]')\ndriver.execute_script('arguments[0].scrollIntoView();',flag)\ndriver.find_element(By.XPATH, '//a[normalize-space()=\"Download\"]').click()\ntime.sleep(3)\n# driver.close()\n#",
+        "detail": "downloading_file_from_browser_with_loca",
+        "documentation": {}
+    },
+    {
+        "label": "flag",
+        "kind": 5,
+        "importPath": "downloading_file_from_browser_with_loca",
+        "description": "downloading_file_from_browser_with_loca",
+        "peekOfCode": "flag = driver.find_element(By.XPATH, '//a[normalize-space()=\"Download\"]')\ndriver.execute_script('arguments[0].scrollIntoView();',flag)\ndriver.find_element(By.XPATH, '//a[normalize-space()=\"Download\"]').click()\ntime.sleep(3)\n# driver.close()\n#",
+        "detail": "downloading_file_from_browser_with_loca",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "dropdown_with_dynamic_path_each_time",
+        "description": "dropdown_with_dynamic_path_each_time",
+        "peekOfCode": "serv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')\ndriver.maximize_window()\ntime.sleep(3)\ndriver.find_element(By.XPATH,'//*[@id=\"billing_country_field\"]/span/span').click()\ntime.sleep(3)\ncontry_lis = driver.find_elements(By.XPATH, '//*[@id=\"select2-billing_country-results\"]//li')\nprint(contry_lis[103].text)\nfor country in contry_lis:",
+        "detail": "dropdown_with_dynamic_path_each_time",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "dropdown_with_dynamic_path_each_time",
+        "description": "dropdown_with_dynamic_path_each_time",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')\ndriver.maximize_window()\ntime.sleep(3)\ndriver.find_element(By.XPATH,'//*[@id=\"billing_country_field\"]/span/span').click()\ntime.sleep(3)\ncontry_lis = driver.find_elements(By.XPATH, '//*[@id=\"select2-billing_country-results\"]//li')\nprint(contry_lis[103].text)\nfor country in contry_lis:\n    if country.text.strip().lower() == \"india\": #is it case sensitive",
+        "detail": "dropdown_with_dynamic_path_each_time",
+        "documentation": {}
+    },
+    {
+        "label": "contry_lis",
+        "kind": 5,
+        "importPath": "dropdown_with_dynamic_path_each_time",
+        "description": "dropdown_with_dynamic_path_each_time",
+        "peekOfCode": "contry_lis = driver.find_elements(By.XPATH, '//*[@id=\"select2-billing_country-results\"]//li')\nprint(contry_lis[103].text)\nfor country in contry_lis:\n    if country.text.strip().lower() == \"india\": #is it case sensitive\n        country.click()\n    # print(type(country.text))\n    # print(country.text)\n        print('we clicked the element')\n# time.sleep(3)\n# what is wrong here we need to call the list element each time in for loop since so that we dont get stale element error",
+        "detail": "dropdown_with_dynamic_path_each_time",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "dropdown_with_dynamic_path_each_time_correct",
+        "description": "dropdown_with_dynamic_path_each_time_correct",
+        "peekOfCode": "serv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')\ndriver.maximize_window()\ntime.sleep(3)\n# Open dropdown\ndriver.find_element(By.XPATH, '//*[@id=\"billing_country_field\"]/span/span').click()\ntime.sleep(2)\n# Wait until elements are loaded (better with WebDriverWait in real use)\ncountry_xpath = '//*[@id=\"select2-billing_country-results\"]/li'",
+        "detail": "dropdown_with_dynamic_path_each_time_correct",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "dropdown_with_dynamic_path_each_time_correct",
+        "description": "dropdown_with_dynamic_path_each_time_correct",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')\ndriver.maximize_window()\ntime.sleep(3)\n# Open dropdown\ndriver.find_element(By.XPATH, '//*[@id=\"billing_country_field\"]/span/span').click()\ntime.sleep(2)\n# Wait until elements are loaded (better with WebDriverWait in real use)\ncountry_xpath = '//*[@id=\"select2-billing_country-results\"]/li'\n# Loop and click India",
+        "detail": "dropdown_with_dynamic_path_each_time_correct",
+        "documentation": {}
+    },
+    {
+        "label": "country_xpath",
+        "kind": 5,
+        "importPath": "dropdown_with_dynamic_path_each_time_correct",
+        "description": "dropdown_with_dynamic_path_each_time_correct",
+        "peekOfCode": "country_xpath = '//*[@id=\"select2-billing_country-results\"]/li'\n# Loop and click India\nfor i in range(249):  # Max 100 iterations just in case\n    countries = driver.find_elements(By.XPATH, country_xpath)\n    if i >= len(countries):\n        break\n    try:\n        if countries[i].text.strip().lower() == \"india\":\n            countries[i].click()\n            print(\"Clicked India.\")",
+        "detail": "dropdown_with_dynamic_path_each_time_correct",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "drop_down",
+        "description": "drop_down",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://rahulshettyacademy.com/AutomationPractice/\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(4)\ndrpcountry_ele = driver.find_element(By.XPATH, '//*[@id=\"dropdown-class-example\"]')\ndrpcountry = Select(drpcountry_ele)\n#select element from drop down\ndrpcountry.select_by_visible_text('Option2')\n# drpcountry.select_by_value('Option3') #argentina",
+        "detail": "drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "drop_down",
+        "description": "drop_down",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://rahulshettyacademy.com/AutomationPractice/\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(4)\ndrpcountry_ele = driver.find_element(By.XPATH, '//*[@id=\"dropdown-class-example\"]')\ndrpcountry = Select(drpcountry_ele)\n#select element from drop down\ndrpcountry.select_by_visible_text('Option2')\n# drpcountry.select_by_value('Option3') #argentina\n# drpcountry.select_by_index(13) #index not to be put in doub;le quotation",
+        "detail": "drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "drpcountry_ele",
+        "kind": 5,
+        "importPath": "drop_down",
+        "description": "drop_down",
+        "peekOfCode": "drpcountry_ele = driver.find_element(By.XPATH, '//*[@id=\"dropdown-class-example\"]')\ndrpcountry = Select(drpcountry_ele)\n#select element from drop down\ndrpcountry.select_by_visible_text('Option2')\n# drpcountry.select_by_value('Option3') #argentina\n# drpcountry.select_by_index(13) #index not to be put in doub;le quotation\nalloptions = drpcountry.options\nprint(len(alloptions), \"are tital no of options\")\nfor opt in alloptions:\n    print(opt.text)",
+        "detail": "drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "drpcountry",
+        "kind": 5,
+        "importPath": "drop_down",
+        "description": "drop_down",
+        "peekOfCode": "drpcountry = Select(drpcountry_ele)\n#select element from drop down\ndrpcountry.select_by_visible_text('Option2')\n# drpcountry.select_by_value('Option3') #argentina\n# drpcountry.select_by_index(13) #index not to be put in doub;le quotation\nalloptions = drpcountry.options\nprint(len(alloptions), \"are tital no of options\")\nfor opt in alloptions:\n    print(opt.text)\n#select option without using built in function",
+        "detail": "drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "alloptions",
+        "kind": 5,
+        "importPath": "drop_down",
+        "description": "drop_down",
+        "peekOfCode": "alloptions = drpcountry.options\nprint(len(alloptions), \"are tital no of options\")\nfor opt in alloptions:\n    print(opt.text)\n#select option without using built in function\nfor opt in alloptions:\n    if opt.text == \"Option2\":\n        opt.click()\n        break",
+        "detail": "drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "explicit_wait",
+        "description": "explicit_wait",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\n# mywait = WebDriverWait(driver, 100) #explicit wait declaration\nmywait = WebDriverWait(driver, 10,poll_frequency= 2, ignored_exceptions=[NoSuchElementException,\n                                                       ElementNotVisibleException,\n                                                       ElementNotSelectableException,\n                                                       Exception])\ndriver.get(\"https://www.google.com/\")\ndriver.maximize_window()\nsearchbox = driver.find_element(By.NAME, 'q')",
+        "detail": "explicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "explicit_wait",
+        "description": "explicit_wait",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\n# mywait = WebDriverWait(driver, 100) #explicit wait declaration\nmywait = WebDriverWait(driver, 10,poll_frequency= 2, ignored_exceptions=[NoSuchElementException,\n                                                       ElementNotVisibleException,\n                                                       ElementNotSelectableException,\n                                                       Exception])\ndriver.get(\"https://www.google.com/\")\ndriver.maximize_window()\nsearchbox = driver.find_element(By.NAME, 'q')\nsearchbox.send_keys(\"Selenium\")",
+        "detail": "explicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "mywait",
+        "kind": 5,
+        "importPath": "explicit_wait",
+        "description": "explicit_wait",
+        "peekOfCode": "mywait = WebDriverWait(driver, 10,poll_frequency= 2, ignored_exceptions=[NoSuchElementException,\n                                                       ElementNotVisibleException,\n                                                       ElementNotSelectableException,\n                                                       Exception])\ndriver.get(\"https://www.google.com/\")\ndriver.maximize_window()\nsearchbox = driver.find_element(By.NAME, 'q')\nsearchbox.send_keys(\"Selenium\")\nsearchbox.submit()\nsearchlink = mywait.until(ec1.presence_of_element_located((By.XPATH, '//h3[normalize-space()=\"Selenium\"]'))) ",
+        "detail": "explicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "searchbox",
+        "kind": 5,
+        "importPath": "explicit_wait",
+        "description": "explicit_wait",
+        "peekOfCode": "searchbox = driver.find_element(By.NAME, 'q')\nsearchbox.send_keys(\"Selenium\")\nsearchbox.submit()\nsearchlink = mywait.until(ec1.presence_of_element_located((By.XPATH, '//h3[normalize-space()=\"Selenium\"]'))) \nsearchlink.click()\ntime.sleep(4)\ndriver.quit()",
+        "detail": "explicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "searchlink",
+        "kind": 5,
+        "importPath": "explicit_wait",
+        "description": "explicit_wait",
+        "peekOfCode": "searchlink = mywait.until(ec1.presence_of_element_located((By.XPATH, '//h3[normalize-space()=\"Selenium\"]'))) \nsearchlink.click()\ntime.sleep(4)\ndriver.quit()",
+        "detail": "explicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "find_element&find_elements",
+        "description": "find_element&find_elements",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()\n#####################  find element() return single webelement\n#1> locator matching with 1 web element\nelement = driver.find_element(By.XPATH, \"//input[@id = 'small-searchterms']\")\nelement.send_keys(\"apple macbook pro\")\n# element = driver.find_element(By.XPATH, \"//div[@class = 'footer']//a\").text\n######### find_elements  teturn multiple elements",
+        "detail": "find_element&find_elements",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "find_element&find_elements",
+        "description": "find_element&find_elements",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()\n#####################  find element() return single webelement\n#1> locator matching with 1 web element\nelement = driver.find_element(By.XPATH, \"//input[@id = 'small-searchterms']\")\nelement.send_keys(\"apple macbook pro\")\n# element = driver.find_element(By.XPATH, \"//div[@class = 'footer']//a\").text\n######### find_elements  teturn multiple elements\n# 1 locator matching 1 webelement",
+        "detail": "find_element&find_elements",
+        "documentation": {}
+    },
+    {
+        "label": "element",
+        "kind": 5,
+        "importPath": "find_element&find_elements",
+        "description": "find_element&find_elements",
+        "peekOfCode": "element = driver.find_element(By.XPATH, \"//input[@id = 'small-searchterms']\")\nelement.send_keys(\"apple macbook pro\")\n# element = driver.find_element(By.XPATH, \"//div[@class = 'footer']//a\").text\n######### find_elements  teturn multiple elements\n# 1 locator matching 1 webelement\n# element = driver.find_elements(By.XPATH, \"//input[@id = 'small-searchterms']\")\n# print(len(element)) \n# element[0].send_keys(\"apple macbook pro\")\n######### text vs get_attribute \n# text ---- return inner text of element of element",
+        "detail": "find_element&find_elements",
+        "documentation": {}
+    },
+    {
+        "label": "service",
+        "kind": 5,
+        "importPath": "first_testcase",
+        "description": "first_testcase",
+        "peekOfCode": "service = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=service)\n# Open site\ndriver.get(\"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\")\n# Optional wait for page to load\ntime.sleep(3)  # Or use WebDriverWait (recommended for dynamic pages)\n# Fill login form\ndriver.find_element(By.NAME, \"username\").send_keys(\"Admin\")\ndriver.find_element(By.NAME, \"password\").send_keys(\"admin123\")\ndriver.find_element(By.XPATH, '//button[normalize-space()=\"Login\"]').click()",
+        "detail": "first_testcase",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "first_testcase",
+        "description": "first_testcase",
+        "peekOfCode": "driver = webdriver.Chrome(service=service)\n# Open site\ndriver.get(\"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\")\n# Optional wait for page to load\ntime.sleep(3)  # Or use WebDriverWait (recommended for dynamic pages)\n# Fill login form\ndriver.find_element(By.NAME, \"username\").send_keys(\"Admin\")\ndriver.find_element(By.NAME, \"password\").send_keys(\"admin123\")\ndriver.find_element(By.XPATH, '//button[normalize-space()=\"Login\"]').click()\nact_title = driver.title ",
+        "detail": "first_testcase",
+        "documentation": {}
+    },
+    {
+        "label": "act_title",
+        "kind": 5,
+        "importPath": "first_testcase",
+        "description": "first_testcase",
+        "peekOfCode": "act_title = driver.title \nexp_title = \"OrangeHRM\"\nif act_title == exp_title:\n    print(\"login test pass\")\nelse:\n    print(\"login test fail\")",
+        "detail": "first_testcase",
+        "documentation": {}
+    },
+    {
+        "label": "exp_title",
+        "kind": 5,
+        "importPath": "first_testcase",
+        "description": "first_testcase",
+        "peekOfCode": "exp_title = \"OrangeHRM\"\nif act_title == exp_title:\n    print(\"login test pass\")\nelse:\n    print(\"login test fail\")",
+        "detail": "first_testcase",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "framesprac1",
+        "description": "framesprac1",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.hyrtutorials.com/p/frames-practice.html\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(4)\ntry:\n    driver.switch_to.frame(\"frm1\")\nexcept Exception:\n    print(f\"error orccur in switching i frame\")\n# d;river.find_element(By.LINK_TEXT, )",
+        "detail": "framesprac1",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "framesprac1",
+        "description": "framesprac1",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.hyrtutorials.com/p/frames-practice.html\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(4)\ntry:\n    driver.switch_to.frame(\"frm1\")\nexcept Exception:\n    print(f\"error orccur in switching i frame\")\n# d;river.find_element(By.LINK_TEXT, )\ntry:",
+        "detail": "framesprac1",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "handlebrokenlinks",
+        "description": "handlebrokenlinks",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"http://www.deadlinkcity.com/\")\ndriver.maximize_window()#maximize browser window\nalllinks = driver.find_elements(By.TAG_NAME, 'a')\ncount = 0\nfor link in alllinks:\n    url = link.get_attribute('href')\n    try :\n        res = requests.head(url)",
+        "detail": "handlebrokenlinks",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "handlebrokenlinks",
+        "description": "handlebrokenlinks",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"http://www.deadlinkcity.com/\")\ndriver.maximize_window()#maximize browser window\nalllinks = driver.find_elements(By.TAG_NAME, 'a')\ncount = 0\nfor link in alllinks:\n    url = link.get_attribute('href')\n    try :\n        res = requests.head(url)\n    except:",
+        "detail": "handlebrokenlinks",
+        "documentation": {}
+    },
+    {
+        "label": "alllinks",
+        "kind": 5,
+        "importPath": "handlebrokenlinks",
+        "description": "handlebrokenlinks",
+        "peekOfCode": "alllinks = driver.find_elements(By.TAG_NAME, 'a')\ncount = 0\nfor link in alllinks:\n    url = link.get_attribute('href')\n    try :\n        res = requests.head(url)\n    except:\n        None\n    if res.status_code>= 400:\n        print(url, \"  is broken link\")",
+        "detail": "handlebrokenlinks",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "handlebrokenlinks",
+        "description": "handlebrokenlinks",
+        "peekOfCode": "count = 0\nfor link in alllinks:\n    url = link.get_attribute('href')\n    try :\n        res = requests.head(url)\n    except:\n        None\n    if res.status_code>= 400:\n        print(url, \"  is broken link\")\n        count+=1",
+        "detail": "handlebrokenlinks",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "handlebrowserwindow",
+        "description": "handlebrowserwindow",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\")\ndriver.maximize_window()#maximize browser window\n# time.sleep(3)\nmywait = WebDriverWait(driver, 15, poll_frequency=1, ignored_exceptions= [NoSuchElementException])\n# windowid = driver.current_window_handle\n# print(\"windowid is\",  windowid)  #12DD75124652DC0E142B108A4E3B7B2F                        \n#                                 #1D2A618540EDF6EAB58B5B8DC48EE7EF\nsel = mywait.until(ec1.presence_of_element_located((By.LINK_TEXT, 'OrangeHRM, Inc')))",
+        "detail": "handlebrowserwindow",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "handlebrowserwindow",
+        "description": "handlebrowserwindow",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\")\ndriver.maximize_window()#maximize browser window\n# time.sleep(3)\nmywait = WebDriverWait(driver, 15, poll_frequency=1, ignored_exceptions= [NoSuchElementException])\n# windowid = driver.current_window_handle\n# print(\"windowid is\",  windowid)  #12DD75124652DC0E142B108A4E3B7B2F                        \n#                                 #1D2A618540EDF6EAB58B5B8DC48EE7EF\nsel = mywait.until(ec1.presence_of_element_located((By.LINK_TEXT, 'OrangeHRM, Inc')))\nsel.click()",
+        "detail": "handlebrowserwindow",
+        "documentation": {}
+    },
+    {
+        "label": "mywait",
+        "kind": 5,
+        "importPath": "handlebrowserwindow",
+        "description": "handlebrowserwindow",
+        "peekOfCode": "mywait = WebDriverWait(driver, 15, poll_frequency=1, ignored_exceptions= [NoSuchElementException])\n# windowid = driver.current_window_handle\n# print(\"windowid is\",  windowid)  #12DD75124652DC0E142B108A4E3B7B2F                        \n#                                 #1D2A618540EDF6EAB58B5B8DC48EE7EF\nsel = mywait.until(ec1.presence_of_element_located((By.LINK_TEXT, 'OrangeHRM, Inc')))\nsel.click()\nwindow_ids = driver.window_handles\n# for i in window_ids:\nprint(\"parent id\",window_ids[0])\nprint(\"child id\",window_ids[1])",
+        "detail": "handlebrowserwindow",
+        "documentation": {}
+    },
+    {
+        "label": "sel",
+        "kind": 5,
+        "importPath": "handlebrowserwindow",
+        "description": "handlebrowserwindow",
+        "peekOfCode": "sel = mywait.until(ec1.presence_of_element_located((By.LINK_TEXT, 'OrangeHRM, Inc')))\nsel.click()\nwindow_ids = driver.window_handles\n# for i in window_ids:\nprint(\"parent id\",window_ids[0])\nprint(\"child id\",window_ids[1])\ntime.sleep(90)\n# driver.close()\n# driver.switch_to(windowID)\n# chat gpt code below ",
+        "detail": "handlebrowserwindow",
+        "documentation": {}
+    },
+    {
+        "label": "window_ids",
+        "kind": 5,
+        "importPath": "handlebrowserwindow",
+        "description": "handlebrowserwindow",
+        "peekOfCode": "window_ids = driver.window_handles\n# for i in window_ids:\nprint(\"parent id\",window_ids[0])\nprint(\"child id\",window_ids[1])\ntime.sleep(90)\n# driver.close()\n# driver.switch_to(windowID)\n# chat gpt code below \n# from selenium import webdriver\n# from selenium.webdriver.chrome.service import Service",
+        "detail": "handlebrowserwindow",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "handlelinks",
+        "description": "handlelinks",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()#maximize browser window\nlinks = driver.find_elements(By.TAG_NAME, 'a')\nprint('total number of links', len(links))\nfor link in links :\n    print (link.text)\n    print(link.get_attribute('value'))",
+        "detail": "handlelinks",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "handlelinks",
+        "description": "handlelinks",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()#maximize browser window\nlinks = driver.find_elements(By.TAG_NAME, 'a')\nprint('total number of links', len(links))\nfor link in links :\n    print (link.text)\n    print(link.get_attribute('value'))",
+        "detail": "handlelinks",
+        "documentation": {}
+    },
+    {
+        "label": "links",
+        "kind": 5,
+        "importPath": "handlelinks",
+        "description": "handlelinks",
+        "peekOfCode": "links = driver.find_elements(By.TAG_NAME, 'a')\nprint('total number of links', len(links))\nfor link in links :\n    print (link.text)\n    print(link.get_attribute('value'))",
+        "detail": "handlelinks",
+        "documentation": {}
+    },
+    {
+        "label": "headlessMode",
+        "kind": 2,
+        "importPath": "headless_mode",
+        "description": "headless_mode",
+        "peekOfCode": "def headlessMode():\n    from selenium.webdriver.chrome.service import Service\n    serv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\n    ops = webdriver.ChromeOptions()\n    # ops.headless = True\n    driver = webdriver.Chrome(service=serv_obj, options= ops )\n    return driver \ndriver = headlessMode()\ndriver.get('https://demo.nopcommerce.com/')\n# driver.maximize_window()",
+        "detail": "headless_mode",
+        "documentation": {}
+    },
+    {
+        "label": "loc",
+        "kind": 5,
+        "importPath": "headless_mode",
+        "description": "headless_mode",
+        "peekOfCode": "loc = os.getcwd()\ndef headlessMode():\n    from selenium.webdriver.chrome.service import Service\n    serv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\n    ops = webdriver.ChromeOptions()\n    # ops.headless = True\n    driver = webdriver.Chrome(service=serv_obj, options= ops )\n    return driver \ndriver = headlessMode()\ndriver.get('https://demo.nopcommerce.com/')",
+        "detail": "headless_mode",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "headless_mode",
+        "description": "headless_mode",
+        "peekOfCode": "driver = headlessMode()\ndriver.get('https://demo.nopcommerce.com/')\n# driver.maximize_window()\nprint(driver.title)\nprint(driver.current_url)",
+        "detail": "headless_mode",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "implicit_wait",
+        "description": "implicit_wait",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\n###########################################################################\ndriver.implicitly_wait(10) # seconds it is applicablt for all following statements\n########################################################################\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()\n#####################  find element() return single webelement\n#1> locator matching with 1 web element\nelement = driver.find_element(By.XPATH, \"//input[@id = 'small-searchterms']\")",
+        "detail": "implicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "implicit_wait",
+        "description": "implicit_wait",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\n###########################################################################\ndriver.implicitly_wait(10) # seconds it is applicablt for all following statements\n########################################################################\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()\n#####################  find element() return single webelement\n#1> locator matching with 1 web element\nelement = driver.find_element(By.XPATH, \"//input[@id = 'small-searchterms']\")\nelement.send_keys(\"apple macbook pro\")",
+        "detail": "implicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "element",
+        "kind": 5,
+        "importPath": "implicit_wait",
+        "description": "implicit_wait",
+        "peekOfCode": "element = driver.find_element(By.XPATH, \"//input[@id = 'small-searchterms']\")\nelement.send_keys(\"apple macbook pro\")\n# element = driver.find_element(By.XPATH, \"//div[@class = 'footer']//a\").text\n######### find_elements  teturn multiple elements\n# 1 locator matching 1 webelement\n# element = driver.find_elements(By.XPATH, \"//input[@id = 'small-searchterms']\")\n# print(len(element)) \n# element[0].send_keys(\"apple macbook pro\")\n######### text vs get_attribute \n# text ---- return inner text of element of element",
+        "detail": "implicit_wait",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "locator4xpath",
+        "description": "locator4xpath",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://money.rediff.com/gainers/bse/daily/groupall\")\ndriver.maximize_window()\n#self\n# text_element = driver.find_element(By.XPATH, '//a[normalize-space()=\"Peninsula Land L\"]/self::a').text\n# print(text_element)\n#parent\n# text_element = driver.find_element(By.XPATH, '//a[normalize-space()=\"Peninsula Land L\"]/parent::td').text\n# print(text_element)",
+        "detail": "locator4xpath",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "locator4xpath",
+        "description": "locator4xpath",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://money.rediff.com/gainers/bse/daily/groupall\")\ndriver.maximize_window()\n#self\n# text_element = driver.find_element(By.XPATH, '//a[normalize-space()=\"Peninsula Land L\"]/self::a').text\n# print(text_element)\n#parent\n# text_element = driver.find_element(By.XPATH, '//a[normalize-space()=\"Peninsula Land L\"]/parent::td').text\n# print(text_element)\n# #child emlement",
+        "detail": "locator4xpath",
+        "documentation": {}
+    },
+    {
+        "label": "text_element",
+        "kind": 5,
+        "importPath": "locator4xpath",
+        "description": "locator4xpath",
+        "peekOfCode": "text_element = driver.find_elements(By.XPATH, '//a[normalize-space()=\"Peninsula Land L\"]/ancestor::tr/preceding::*')\nprint('number of presceding siblings are ',len(text_element))",
+        "detail": "locator4xpath",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "locators1",
+        "description": "locators1",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.ID, \"small-searchterms\").send_keys(\"Lenovo Thinkpad X1 Carbon Laptop\")\ndriver.find_element(By.LINK_TEXT, \"Register\").click()\nsliders = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(sliders))\ntime.sleep(2)\n#linktext and partial link text",
+        "detail": "locators1",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "locators1",
+        "description": "locators1",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.ID, \"small-searchterms\").send_keys(\"Lenovo Thinkpad X1 Carbon Laptop\")\ndriver.find_element(By.LINK_TEXT, \"Register\").click()\nsliders = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(sliders))\ntime.sleep(2)\n#linktext and partial link text\n# driver.find_element(By.LINK_TEXT, )",
+        "detail": "locators1",
+        "documentation": {}
+    },
+    {
+        "label": "sliders",
+        "kind": 5,
+        "importPath": "locators1",
+        "description": "locators1",
+        "peekOfCode": "sliders = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(sliders))\ntime.sleep(2)\n#linktext and partial link text\n# driver.find_element(By.LINK_TEXT, )",
+        "detail": "locators1",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "locators2",
+        "description": "locators2",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.automationexercise.com/\")\ndriver.maximize_window()#maximize browser window\nslider = driver.find_elements(By.CLASS_NAME, \"col-sm-6\")\nprint(len(slider))\nlinks = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(links))",
+        "detail": "locators2",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "locators2",
+        "description": "locators2",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.automationexercise.com/\")\ndriver.maximize_window()#maximize browser window\nslider = driver.find_elements(By.CLASS_NAME, \"col-sm-6\")\nprint(len(slider))\nlinks = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(links))",
+        "detail": "locators2",
+        "documentation": {}
+    },
+    {
+        "label": "slider",
+        "kind": 5,
+        "importPath": "locators2",
+        "description": "locators2",
+        "peekOfCode": "slider = driver.find_elements(By.CLASS_NAME, \"col-sm-6\")\nprint(len(slider))\nlinks = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(links))",
+        "detail": "locators2",
+        "documentation": {}
+    },
+    {
+        "label": "links",
+        "kind": 5,
+        "importPath": "locators2",
+        "description": "locators2",
+        "peekOfCode": "links = driver.find_elements(By.TAG_NAME, \"a\")\nprint(len(links))",
+        "detail": "locators2",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "locators3",
+        "description": "locators3",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.facebook.com/\")\ndriver.maximize_window()#maximize browser window\n# # tag and id\n# #    tagname#value of id\n# driver.find_element(By.CSS_SELECTOR, \"input#email\").send_keys('abc')\n# #   tag and class \n# #    tagname.value of class \n# # input.inputtext_",
+        "detail": "locators3",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "locators3",
+        "description": "locators3",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.facebook.com/\")\ndriver.maximize_window()#maximize browser window\n# # tag and id\n# #    tagname#value of id\n# driver.find_element(By.CSS_SELECTOR, \"input#email\").send_keys('abc')\n# #   tag and class \n# #    tagname.value of class \n# # input.inputtext_\n# driver.find_element(By.CSS_SELECTOR, \"input.inputtext\").send_keys('abc')",
+        "detail": "locators3",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "multithreaded_example",
+        "description": "multithreaded_example",
+        "peekOfCode": "def run_test(thread_id, url):\n    driver = webdriver.Chrome()\n    driver.get(url)\n    print(f\"[Thread {thread_id}] Title: {driver.title}\")\n    time.sleep(2)  # simulate test steps\n    driver.quit()\n# List of URLs to test\nurls = [\"https://example.com\", \"https://google.com\", \"https://github.com\"]\nthreads = []\n# Launch a thread per URL",
+        "detail": "multithreaded_example",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "kind": 5,
+        "importPath": "multithreaded_example",
+        "description": "multithreaded_example",
+        "peekOfCode": "urls = [\"https://example.com\", \"https://google.com\", \"https://github.com\"]\nthreads = []\n# Launch a thread per URL\nfor i, url in enumerate(urls):\n    t = threading.Thread(target=run_test, args=(i + 1, url))\n    threads.append(t)\n    t.start()\n# Wait for all threads to finish\nfor t in threads:\n    t.join()",
+        "detail": "multithreaded_example",
+        "documentation": {}
+    },
+    {
+        "label": "threads",
+        "kind": 5,
+        "importPath": "multithreaded_example",
+        "description": "multithreaded_example",
+        "peekOfCode": "threads = []\n# Launch a thread per URL\nfor i, url in enumerate(urls):\n    t = threading.Thread(target=run_test, args=(i + 1, url))\n    threads.append(t)\n    t.start()\n# Wait for all threads to finish\nfor t in threads:\n    t.join()\nprint(\"✅ All tests completed.\")",
+        "detail": "multithreaded_example",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "navigational_command",
+        "description": "navigational_command",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.get(\"https://www.amazon.in/\")\ndriver.maximize_window()\ndriver.back()\ndriver.forward()\ndriver.refresh()\ndriver.quit()",
+        "detail": "navigational_command",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "navigational_command",
+        "description": "navigational_command",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.nopcommerce.com/\")\ndriver.get(\"https://www.amazon.in/\")\ndriver.maximize_window()\ndriver.back()\ndriver.forward()\ndriver.refresh()\ndriver.quit()",
+        "detail": "navigational_command",
+        "documentation": {}
+    },
+    {
+        "label": "ops",
+        "kind": 5,
+        "importPath": "notificationpopup",
+        "description": "notificationpopup",
+        "peekOfCode": "ops = webdriver.ChromeOptions()\nops.add_argument(\"--disable-notifications\")\nserv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj, options= ops)\ndriver.get('https://whatmylocation.com/#google_vignette')\ndriver.maximize_window()\ntime.sleep(40)",
+        "detail": "notificationpopup",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "notificationpopup",
+        "description": "notificationpopup",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj, options= ops)\ndriver.get('https://whatmylocation.com/#google_vignette')\ndriver.maximize_window()\ntime.sleep(40)",
+        "detail": "notificationpopup",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "notificationpopup",
+        "description": "notificationpopup",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj, options= ops)\ndriver.get('https://whatmylocation.com/#google_vignette')\ndriver.maximize_window()\ntime.sleep(40)",
+        "detail": "notificationpopup",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "popupsOrAlerts",
+        "description": "popupsOrAlerts",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://the-internet.herokuapp.com/javascript_alerts\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.XPATH, '//*[@id=\"content\"]/div/ul/li[3]/button').click()\nalertwindow = driver.switch_to.alert\nprint(alertwindow.text)\nalertwindow.send_keys('hola its sent by me')\n# alertwindow.accept()\nalertwindow.dismiss()",
+        "detail": "popupsOrAlerts",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "popupsOrAlerts",
+        "description": "popupsOrAlerts",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://the-internet.herokuapp.com/javascript_alerts\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.XPATH, '//*[@id=\"content\"]/div/ul/li[3]/button').click()\nalertwindow = driver.switch_to.alert\nprint(alertwindow.text)\nalertwindow.send_keys('hola its sent by me')\n# alertwindow.accept()\nalertwindow.dismiss()\ntime.sleep(4)",
+        "detail": "popupsOrAlerts",
+        "documentation": {}
+    },
+    {
+        "label": "alertwindow",
+        "kind": 5,
+        "importPath": "popupsOrAlerts",
+        "description": "popupsOrAlerts",
+        "peekOfCode": "alertwindow = driver.switch_to.alert\nprint(alertwindow.text)\nalertwindow.send_keys('hola its sent by me')\n# alertwindow.accept()\nalertwindow.dismiss()\ntime.sleep(4)",
+        "detail": "popupsOrAlerts",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "print_webpage",
+        "description": "print_webpage",
+        "peekOfCode": "driver = webdriver.Chrome()\ndriver.get(\"https://flask.palletsprojects.com/en/stable/tutorial/layout/\")\n# Open print dialog\npdf = driver.execute_cdp_cmd(\"Page.printToPDF\", {\n    \"landscape\": False,\n    \"displayHeaderFooter\": False,\n    \"printBackground\": True,\n    \"preferCSSPageSize\": True\n})\n# Save to file",
+        "detail": "print_webpage",
+        "documentation": {}
+    },
+    {
+        "label": "pdf",
+        "kind": 5,
+        "importPath": "print_webpage",
+        "description": "print_webpage",
+        "peekOfCode": "pdf = driver.execute_cdp_cmd(\"Page.printToPDF\", {\n    \"landscape\": False,\n    \"displayHeaderFooter\": False,\n    \"printBackground\": True,\n    \"preferCSSPageSize\": True\n})\n# Save to file\nwith open(\"output.pdf\", \"wb\") as f:\n    f.write(base64.b64decode(pdf['data']))\nprint(\"PDF saved as output.pdf\")",
+        "detail": "print_webpage",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 5,
+        "importPath": "read_exelfile",
+        "description": "read_exelfile",
+        "peekOfCode": "file = r\"C:\\Users\\91878\\python_tutotial\\selenium_practice\\data.xlsx\"\nworkbook = openpyxl.load_workbook(file)\nsheet = workbook['Sheet1']      # or we can use workbook.active for just 1 sheet in workbook\nrows = sheet.max_row\ncols = sheet.max_column\nfor r in range(1,rows+1):\n    print(\"  \")\n    for c in range(1, cols+1):\n        print(sheet.cell(r,c).value,end='  ')",
+        "detail": "read_exelfile",
+        "documentation": {}
+    },
+    {
+        "label": "workbook",
+        "kind": 5,
+        "importPath": "read_exelfile",
+        "description": "read_exelfile",
+        "peekOfCode": "workbook = openpyxl.load_workbook(file)\nsheet = workbook['Sheet1']      # or we can use workbook.active for just 1 sheet in workbook\nrows = sheet.max_row\ncols = sheet.max_column\nfor r in range(1,rows+1):\n    print(\"  \")\n    for c in range(1, cols+1):\n        print(sheet.cell(r,c).value,end='  ')",
+        "detail": "read_exelfile",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "read_exelfile",
+        "description": "read_exelfile",
+        "peekOfCode": "sheet = workbook['Sheet1']      # or we can use workbook.active for just 1 sheet in workbook\nrows = sheet.max_row\ncols = sheet.max_column\nfor r in range(1,rows+1):\n    print(\"  \")\n    for c in range(1, cols+1):\n        print(sheet.cell(r,c).value,end='  ')",
+        "detail": "read_exelfile",
+        "documentation": {}
+    },
+    {
+        "label": "rows",
+        "kind": 5,
+        "importPath": "read_exelfile",
+        "description": "read_exelfile",
+        "peekOfCode": "rows = sheet.max_row\ncols = sheet.max_column\nfor r in range(1,rows+1):\n    print(\"  \")\n    for c in range(1, cols+1):\n        print(sheet.cell(r,c).value,end='  ')",
+        "detail": "read_exelfile",
+        "documentation": {}
+    },
+    {
+        "label": "cols",
+        "kind": 5,
+        "importPath": "read_exelfile",
+        "description": "read_exelfile",
+        "peekOfCode": "cols = sheet.max_column\nfor r in range(1,rows+1):\n    print(\"  \")\n    for c in range(1, cols+1):\n        print(sheet.cell(r,c).value,end='  ')",
+        "detail": "read_exelfile",
+        "documentation": {}
+    },
+    {
+        "label": "loc",
+        "kind": 5,
+        "importPath": "save_screenshot",
+        "description": "save_screenshot",
+        "peekOfCode": "loc = os.getcwd()\nfrom selenium.webdriver.chrome.service import Service\nserv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://demo.nopcommerce.com/')\ndriver.maximize_window()\n# implicitwait(10)\ndriver.save_screenshot(loc + \"\\\\selenium_practice\\\\homepage.png\")\n# driver.get_screenshot_as_base64(loc, \"\\\\selenium_practice\\\\homepage.png\")\n# driver.get_screenshot_as_file(loc, \"\\\\selenium_practice\\\\homepage.png\")",
+        "detail": "save_screenshot",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "save_screenshot",
+        "description": "save_screenshot",
+        "peekOfCode": "serv_obj = Service(r'C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe')\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://demo.nopcommerce.com/')\ndriver.maximize_window()\n# implicitwait(10)\ndriver.save_screenshot(loc + \"\\\\selenium_practice\\\\homepage.png\")\n# driver.get_screenshot_as_base64(loc, \"\\\\selenium_practice\\\\homepage.png\")\n# driver.get_screenshot_as_file(loc, \"\\\\selenium_practice\\\\homepage.png\")\n# driver.find_element(By.XPATH, '//a[normalize-space()=\"Register\"]').send_keys(Keys.CONTROL+Keys.RETURN)\nfor i in range(100):",
+        "detail": "save_screenshot",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "save_screenshot",
+        "description": "save_screenshot",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get('https://demo.nopcommerce.com/')\ndriver.maximize_window()\n# implicitwait(10)\ndriver.save_screenshot(loc + \"\\\\selenium_practice\\\\homepage.png\")\n# driver.get_screenshot_as_base64(loc, \"\\\\selenium_practice\\\\homepage.png\")\n# driver.get_screenshot_as_file(loc, \"\\\\selenium_practice\\\\homepage.png\")\n# driver.find_element(By.XPATH, '//a[normalize-space()=\"Register\"]').send_keys(Keys.CONTROL+Keys.RETURN)\nfor i in range(100):\n    driver.switch_to.new_window('window')",
+        "detail": "save_screenshot",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "scroll_function1",
+        "description": "scroll_function1",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://www.countries-ofthe-world.com/flags-of-the-world.html')\ndriver.maximize_window()\ntime.sleep(3)\n#  scroll by pixel\n# driver.execute_script(\"window.scrollBy(0,3000)\",'')\n# print('yofset is ',end=' ')\n# value = driver.execute_script('return window.pageYOffset;')\n# print(value )",
+        "detail": "scroll_function1",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "scroll_function1",
+        "description": "scroll_function1",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://www.countries-ofthe-world.com/flags-of-the-world.html')\ndriver.maximize_window()\ntime.sleep(3)\n#  scroll by pixel\n# driver.execute_script(\"window.scrollBy(0,3000)\",'')\n# print('yofset is ',end=' ')\n# value = driver.execute_script('return window.pageYOffset;')\n# print(value )\n# scroll untill u find an element ",
+        "detail": "scroll_function1",
+        "documentation": {}
+    },
+    {
+        "label": "flag",
+        "kind": 5,
+        "importPath": "scroll_function1",
+        "description": "scroll_function1",
+        "peekOfCode": "flag = driver.find_element(By.XPATH, '//img[@alt=\"Flag of India\"]')\ndriver.execute_script('arguments[0].scrollIntoView();',flag)\nvalue = driver.execute_script('return window.pageYOffset;')\nprint(\"wekfnoewfbow  ratqatatatattatatat :\",value )\ndriver.execute_script('window.scrollBy(0,document.body.scrollHeight)')\ntime.sleep(5)",
+        "detail": "scroll_function1",
+        "documentation": {}
+    },
+    {
+        "label": "value",
+        "kind": 5,
+        "importPath": "scroll_function1",
+        "description": "scroll_function1",
+        "peekOfCode": "value = driver.execute_script('return window.pageYOffset;')\nprint(\"wekfnoewfbow  ratqatatatattatatat :\",value )\ndriver.execute_script('window.scrollBy(0,document.body.scrollHeight)')\ntime.sleep(5)",
+        "detail": "scroll_function1",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\n#  count number of rows in a web table\ndriver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')\ndriver.maximize_window()\ntime.sleep(4)\ndriver.find_element(By.XPATH, '//input[@id=\"dob\"]').click()\na = 'Aug'\nb = '2022'\nc = '13'",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\n#  count number of rows in a web table\ndriver.get('https://www.dummyticket.com/dummy-ticket-for-visa-application/')\ndriver.maximize_window()\ntime.sleep(4)\ndriver.find_element(By.XPATH, '//input[@id=\"dob\"]').click()\na = 'Aug'\nb = '2022'\nc = '13'\nmonth_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select month\"]'))",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "a = 'Aug'\nb = '2022'\nc = '13'\nmonth_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select month\"]'))\nmonth_pick.select_by_visible_text(a)\nyear_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select year\"]'))\nyear_pick.select_by_visible_text(b)\ndate_pick = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a')\nfor date in date_pick:\n    if date.text == '13':",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "b = '2022'\nc = '13'\nmonth_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select month\"]'))\nmonth_pick.select_by_visible_text(a)\nyear_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select year\"]'))\nyear_pick.select_by_visible_text(b)\ndate_pick = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a')\nfor date in date_pick:\n    if date.text == '13':\n        date.click()",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "c = '13'\nmonth_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select month\"]'))\nmonth_pick.select_by_visible_text(a)\nyear_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select year\"]'))\nyear_pick.select_by_visible_text(b)\ndate_pick = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a')\nfor date in date_pick:\n    if date.text == '13':\n        date.click()\ntime.sleep(8)",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "month_pick",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "month_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select month\"]'))\nmonth_pick.select_by_visible_text(a)\nyear_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select year\"]'))\nyear_pick.select_by_visible_text(b)\ndate_pick = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a')\nfor date in date_pick:\n    if date.text == '13':\n        date.click()\ntime.sleep(8)",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "year_pick",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "year_pick = Select(driver.find_element(By.XPATH, '//select[@aria-label=\"Select year\"]'))\nyear_pick.select_by_visible_text(b)\ndate_pick = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a')\nfor date in date_pick:\n    if date.text == '13':\n        date.click()\ntime.sleep(8)",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "date_pick",
+        "kind": 5,
+        "importPath": "selectdate_havingoptions",
+        "description": "selectdate_havingoptions",
+        "peekOfCode": "date_pick = driver.find_elements(By.XPATH, '//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a')\nfor date in date_pick:\n    if date.text == '13':\n        date.click()\ntime.sleep(8)",
+        "detail": "selectdate_havingoptions",
+        "documentation": {}
+    },
+    {
+        "label": "bihar_auto",
+        "kind": 2,
+        "importPath": "shloka_bihar_script",
+        "description": "shloka_bihar_script",
+        "peekOfCode": "def bihar_auto(district,anchal,mauja,halka,khata_number,jamabandi_sankhya,fname,lname,user_id,u_date,epp_user_id,bhag_vartman,pusht_sankhya_number):\n    try:\n        pa_th = os.path.join(script_dir, u_date+'_'+'bihar'+'_'+'0', fname+'_'+lname+'_'+str(user_id))\n        os.makedirs(pa_th, exist_ok=True)    \n        #Set up driver\n        driver = webdriver.Chrome()\n        driver.get('https://parimarjan.bihar.gov.in/BiharBhumiReport/ViewJamabandi')\n        logger.info(\"DRIVER OPEN\")\n        time.sleep(1)\n        pid = driver.service.process.pid",
+        "detail": "shloka_bihar_script",
+        "documentation": {}
+    },
+    {
+        "label": "bihar_extraction",
+        "kind": 2,
+        "importPath": "shloka_bihar_script",
+        "description": "shloka_bihar_script",
+        "peekOfCode": "def bihar_extraction(district,anchal,mauja,halka,khata_number,jamabandi_sankhya,fname,lname,user_id,u_date,epp_user_id,driver,pid,wait,bhag_vartman,pusht_sankhya_number):\n    try:\n        logger.info(f\"Khata Number--{khata_number},Bhag Vartman--{bhag_vartman},Pusht_sankhya---{pusht_sankhya_number}\")\n        time.sleep(4)\n        no_data = ''\n        try:\n            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id=\"MainContent_Updatepanel1\"]/div/div/div[2]/div[6]')))\n            no_data = driver.find_element(By.XPATH, '//*[@id=\"MainContent_Updatepanel1\"]/div/div/div[2]/div[6]').text.strip()\n            logger.info(f'Extracted no_data text: \"{no_data}\"')  # Debugging line\n        except Exception as e:",
+        "detail": "shloka_bihar_script",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "slider_element",
+        "description": "slider_element",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://www.jqueryscript.net/demo/Price-Range-Slider-jQuery-UI/')\ndriver.maximize_window()\ntime.sleep(3)\nmin = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[1]')\nmax = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[2]')\nprint(\"location before moving\")\nprint(min.location)\nprint(max.location)",
+        "detail": "slider_element",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "slider_element",
+        "description": "slider_element",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://www.jqueryscript.net/demo/Price-Range-Slider-jQuery-UI/')\ndriver.maximize_window()\ntime.sleep(3)\nmin = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[1]')\nmax = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[2]')\nprint(\"location before moving\")\nprint(min.location)\nprint(max.location)\nact = ActionChains(driver)",
+        "detail": "slider_element",
+        "documentation": {}
+    },
+    {
+        "label": "min",
+        "kind": 5,
+        "importPath": "slider_element",
+        "description": "slider_element",
+        "peekOfCode": "min = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[1]')\nmax = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[2]')\nprint(\"location before moving\")\nprint(min.location)\nprint(max.location)\nact = ActionChains(driver)\nact.drag_and_drop_by_offset(min, 100,0).perform()\nact.drag_and_drop_by_offset(max, -39,0).perform()\nprint(\"location after moving\")\nprint(min.location)",
+        "detail": "slider_element",
+        "documentation": {}
+    },
+    {
+        "label": "max",
+        "kind": 5,
+        "importPath": "slider_element",
+        "description": "slider_element",
+        "peekOfCode": "max = driver.find_element(By.XPATH, '//*[@id=\"slider-range\"]/span[2]')\nprint(\"location before moving\")\nprint(min.location)\nprint(max.location)\nact = ActionChains(driver)\nact.drag_and_drop_by_offset(min, 100,0).perform()\nact.drag_and_drop_by_offset(max, -39,0).perform()\nprint(\"location after moving\")\nprint(min.location)\nprint(max.location)",
+        "detail": "slider_element",
+        "documentation": {}
+    },
+    {
+        "label": "act",
+        "kind": 5,
+        "importPath": "slider_element",
+        "description": "slider_element",
+        "peekOfCode": "act = ActionChains(driver)\nact.drag_and_drop_by_offset(min, 100,0).perform()\nact.drag_and_drop_by_offset(max, -39,0).perform()\nprint(\"location after moving\")\nprint(min.location)\nprint(max.location)",
+        "detail": "slider_element",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "switch_frame_nested",
+        "description": "switch_frame_nested",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.automationtesting.in/Frames.html\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.XPATH, \"//a[normalize-space()='Iframe with in an Iframe']\").click()\nouterframe = driver.find_element(By.XPATH, '//*[@id=\"Multiple\"]/iframe ')\ndriver.switch_to.frame(outerframe)\ninnerframe = driver.find_element(By.XPATH, \"/html/body/section/div/div/iframe\")\ndriver.switch_to.frame(innerframe)\ndriver.find_element(By.XPATH, \"/html/body/section/div/div/div/input\").send_keys('welcome')",
+        "detail": "switch_frame_nested",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "switch_frame_nested",
+        "description": "switch_frame_nested",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://demo.automationtesting.in/Frames.html\")\ndriver.maximize_window()#maximize browser window\ndriver.find_element(By.XPATH, \"//a[normalize-space()='Iframe with in an Iframe']\").click()\nouterframe = driver.find_element(By.XPATH, '//*[@id=\"Multiple\"]/iframe ')\ndriver.switch_to.frame(outerframe)\ninnerframe = driver.find_element(By.XPATH, \"/html/body/section/div/div/iframe\")\ndriver.switch_to.frame(innerframe)\ndriver.find_element(By.XPATH, \"/html/body/section/div/div/div/input\").send_keys('welcome')\ndriver.switch_to.parent_frame()#directlty switch to parent frame",
+        "detail": "switch_frame_nested",
+        "documentation": {}
+    },
+    {
+        "label": "outerframe",
+        "kind": 5,
+        "importPath": "switch_frame_nested",
+        "description": "switch_frame_nested",
+        "peekOfCode": "outerframe = driver.find_element(By.XPATH, '//*[@id=\"Multiple\"]/iframe ')\ndriver.switch_to.frame(outerframe)\ninnerframe = driver.find_element(By.XPATH, \"/html/body/section/div/div/iframe\")\ndriver.switch_to.frame(innerframe)\ndriver.find_element(By.XPATH, \"/html/body/section/div/div/div/input\").send_keys('welcome')\ndriver.switch_to.parent_frame()#directlty switch to parent frame\ntime.sleep(4)",
+        "detail": "switch_frame_nested",
+        "documentation": {}
+    },
+    {
+        "label": "innerframe",
+        "kind": 5,
+        "importPath": "switch_frame_nested",
+        "description": "switch_frame_nested",
+        "peekOfCode": "innerframe = driver.find_element(By.XPATH, \"/html/body/section/div/div/iframe\")\ndriver.switch_to.frame(innerframe)\ndriver.find_element(By.XPATH, \"/html/body/section/div/div/div/input\").send_keys('welcome')\ndriver.switch_to.parent_frame()#directlty switch to parent frame\ntime.sleep(4)",
+        "detail": "switch_frame_nested",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "Untitled-2",
+        "description": "Untitled-2",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.hyrtutorials.com/p/frames-practice.html\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(4)\ntry:\n    driver.switch_to.frame(\"frm1\")\nexcept Exception:\n    print(f\"error orccur in switching i frame\")\n# d;river.find_element(By.LINK_TEXT, )",
+        "detail": "Untitled-2",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "Untitled-2",
+        "description": "Untitled-2",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://www.hyrtutorials.com/p/frames-practice.html\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(4)\ntry:\n    driver.switch_to.frame(\"frm1\")\nexcept Exception:\n    print(f\"error orccur in switching i frame\")\n# d;river.find_element(By.LINK_TEXT, )\ntry:",
+        "detail": "Untitled-2",
+        "documentation": {}
+    },
+    {
+        "label": "drp_val",
+        "kind": 5,
+        "importPath": "Untitled-2",
+        "description": "Untitled-2",
+        "peekOfCode": "drp_val = Select(drp_ele)\ndrp_val.select_by_visible_text(\"Java\")\ntime.sleep(4)",
+        "detail": "Untitled-2",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "uploadFiles",
+        "description": "uploadFiles",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Users\\91878\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://formstone.it/components/upload/demo/')\ndriver.maximize_window()\n# form = driver.find_element(By.XPATH, '//*[@id=\"example-0\"]/form')\n# driver.switch_to.frame(form)\ndriver.find_element(By.XPATH, '//*[@id=\"example-0\"]/form/div[1]/input').send_keys(r'C:\\Users\\91878\\python_tutotial\\web_table_data.txt')\ntime.sleep(5)",
+        "detail": "uploadFiles",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "uploadFiles",
+        "description": "uploadFiles",
+        "peekOfCode": "driver = webdriver.Chrome(service= serv_obj)\ndriver.get('https://formstone.it/components/upload/demo/')\ndriver.maximize_window()\n# form = driver.find_element(By.XPATH, '//*[@id=\"example-0\"]/form')\n# driver.switch_to.frame(form)\ndriver.find_element(By.XPATH, '//*[@id=\"example-0\"]/form/div[1]/input').send_keys(r'C:\\Users\\91878\\python_tutotial\\web_table_data.txt')\ntime.sleep(5)",
+        "detail": "uploadFiles",
+        "documentation": {}
+    },
+    {
+        "label": "serv_obj",
+        "kind": 5,
+        "importPath": "window_handling2",
+        "description": "window_handling2",
+        "peekOfCode": "serv_obj = Service(r\"C:\\Driver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe\")\ndriver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(5)\ndriver.find_element(By.LINK_TEXT, 'OrangeHRM, Inc').click()\nwindow_ids = driver.window_handles\n# for i in window_ids:\nprint(\"parent id\",window_ids[0])\nprint(\"child id\",window_ids[1])",
+        "detail": "window_handling2",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "window_handling2",
+        "description": "window_handling2",
+        "peekOfCode": "driver = webdriver.Chrome(service=serv_obj)\ndriver.get(\"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login\")\ndriver.maximize_window()#maximize browser window\ntime.sleep(5)\ndriver.find_element(By.LINK_TEXT, 'OrangeHRM, Inc').click()\nwindow_ids = driver.window_handles\n# for i in window_ids:\nprint(\"parent id\",window_ids[0])\nprint(\"child id\",window_ids[1])\n# for wind in window_ids:",
+        "detail": "window_handling2",
+        "documentation": {}
+    },
+    {
+        "label": "window_ids",
+        "kind": 5,
+        "importPath": "window_handling2",
+        "description": "window_handling2",
+        "peekOfCode": "window_ids = driver.window_handles\n# for i in window_ids:\nprint(\"parent id\",window_ids[0])\nprint(\"child id\",window_ids[1])\n# for wind in window_ids:\n#     driver.switch_to.window(wind)\n#     print(driver.title)\nfor wind in window_ids:\n    driver.switch_to.window(wind)\n    if driver.title == \"OrangeHRM\" :",
+        "detail": "window_handling2",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 5,
+        "importPath": "writingEXcelfile",
+        "description": "writingEXcelfile",
+        "peekOfCode": "file = r'C:\\Users\\91878\\python_tutotial\\selenium_practice\\data1.xlsx'\nworkbook= openpyxl.load_workbook(file)\nsheet = workbook.active\nfor r in range(1,7+1):\n    print(\"  \")\n    for c in range(1, 6+1):\n        sheet.cell(r,c).value = \"welcome\"\nworkbook.save(file)  # save file after each execution",
+        "detail": "writingEXcelfile",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "writingEXcelfile",
+        "description": "writingEXcelfile",
+        "peekOfCode": "sheet = workbook.active\nfor r in range(1,7+1):\n    print(\"  \")\n    for c in range(1, 6+1):\n        sheet.cell(r,c).value = \"welcome\"\nworkbook.save(file)  # save file after each execution",
+        "detail": "writingEXcelfile",
+        "documentation": {}
+    }
+]
